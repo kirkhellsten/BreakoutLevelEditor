@@ -1,0 +1,556 @@
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.00000] opening C:\Users\Kirk\CodeBlock Projects\BreakoutLevelEditor\bin\Debug\allegro5.cfg r
+system   D C:\LIBS5303Build\allegro5\src\win\wsystem.c:771  _al_win_safe_load_library        [   0.00000] PathFindOnPath found: C:\WINDOWS\system32\shcore.dll
+system   D C:\LIBS5303Build\allegro5\src\win\wsystem.c:682  load_library_at_path             [   0.00000] Calling LoadLibrary C:\WINDOWS\system32\shcore.dll
+system   I C:\LIBS5303Build\allegro5\src\win\wsystem.c:685  load_library_at_path             [   0.00000] Loaded C:\WINDOWS\system32\shcore.dll
+system   I C:\LIBS5303Build\allegro5\src\system.c:257  al_install_system                [   0.00000] Allegro version: 5.2.3 (GIT)
+audio-dsound I C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:249  _dsound_open                     [   0.00018] Starting DirectSound...
+audio-dsound D C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:258  _dsound_open                     [   0.02408] DirectSoundCreate8 succeeded
+audio    I C:\LIBS5303Build\allegro5\addons\audio\audio.c:347  do_install_audio                 [   0.02622] Using DirectSound driver
+audio-dsound D C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:290  _dsound_allocate_voice           [   0.02625] Allocating voice
+audio-dsound D C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:349  _dsound_allocate_voice           [   0.02626] Allocated voice
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.02627] added dtor for voice 0163C3E8, func 004B2410
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.02628] added dtor for mixer 0163CCD0, func 004FCACC
+audio-dsound D C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:446  _dsound_start_voice              [   0.02630] Starting voice
+audio-dsound D C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:474  _dsound_start_voice              [   0.02630] CreateSoundBuffer
+audio-dsound D C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:483  _dsound_start_voice              [   0.02793] CreateSoundBuffer succeeded
+audio-dsound D C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:489  _dsound_start_voice              [   0.02795] Starting _dsound_update thread
+audio-dsound I C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:499  _dsound_start_voice              [   0.02800] Voice started
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.02801] added dtor for sample_instance 0163D060, func 004F6F8F
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:121  _al_rechannel_matrix             [   0.02804] sample matrix:
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02805] 
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02805] 
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.02806] added dtor for sample_instance 0163D378, func 004F6F8F
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:121  _al_rechannel_matrix             [   0.02807] sample matrix:
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02808] 
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02808] 
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.02809] added dtor for sample_instance 0163D8A0, func 004F6F8F
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:121  _al_rechannel_matrix             [   0.02809] sample matrix:
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02810] 
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02810] 
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.02811] added dtor for sample_instance 0163DBB0, func 004F6F8F
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:121  _al_rechannel_matrix             [   0.02829] sample matrix:
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02832] 
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02832] 
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.02836] added dtor for sample_instance 0163CE70, func 004F6F8F
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:121  _al_rechannel_matrix             [   0.02837] sample matrix:
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02838] 
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02839] 
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.02839] added dtor for sample_instance 0163CF60, func 004F6F8F
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:121  _al_rechannel_matrix             [   0.02840] sample matrix:
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02840] 
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02841] 
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.02841] added dtor for sample_instance 0163E4B0, func 004F6F8F
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:121  _al_rechannel_matrix             [   0.02842] sample matrix:
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02843] 
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02843] 
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.02846] added dtor for sample_instance 0163E5A0, func 004F6F8F
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:121  _al_rechannel_matrix             [   0.02847] sample matrix:
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02847] 
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02848] 
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.02848] added dtor for sample_instance 0163E720, func 004F6F8F
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:121  _al_rechannel_matrix             [   0.02849] sample matrix:
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02849] 
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02850] 
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.02851] added dtor for sample_instance 0163E810, func 004F6F8F
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:121  _al_rechannel_matrix             [   0.02851] sample matrix:
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02852] 
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02852] 
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.02853] added dtor for sample_instance 0163E900, func 004F6F8F
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:121  _al_rechannel_matrix             [   0.02853] sample matrix:
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02854] 
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02854] 
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.02855] added dtor for sample_instance 0163E9F0, func 004F6F8F
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:121  _al_rechannel_matrix             [   0.02856] sample matrix:
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02856] 
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02857] 
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.02857] added dtor for sample_instance 0163EAE0, func 004F6F8F
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:121  _al_rechannel_matrix             [   0.02858] sample matrix:
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02859] 
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02859] 
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.02860] added dtor for sample_instance 0163EBD0, func 004F6F8F
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:121  _al_rechannel_matrix             [   0.02860] sample matrix:
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02861] 
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02861] 
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.02862] added dtor for sample_instance 0163ECC0, func 004F6F8F
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:121  _al_rechannel_matrix             [   0.02862] sample matrix:
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02863] 
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02863] 
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.02864] added dtor for sample_instance 0163EDB0, func 004F6F8F
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:121  _al_rechannel_matrix             [   0.02865] sample matrix:
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02865] 
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02866] 
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.03093] added dtor for queue 0163EEA0, func 0042197B
+system   D C:\LIBS5303Build\allegro5\src\win\wsystem.c:771  _al_win_safe_load_library        [   0.03125] PathFindOnPath found: C:\WINDOWS\system32\d3d9.dll
+system   D C:\LIBS5303Build\allegro5\src\win\wsystem.c:682  load_library_at_path             [   0.03127] Calling LoadLibrary C:\WINDOWS\system32\d3d9.dll
+system   I C:\LIBS5303Build\allegro5\src\win\wsystem.c:685  load_library_at_path             [   0.03484] Loaded C:\WINDOWS\system32\d3d9.dll
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:674  d3d_init_display                 [   0.04302] Render-to-texture: 1
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1769 d3d_create_display_locked        [   0.04367] faux_fullscreen=0
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1770 d3d_create_display_locked        [   0.04370] al_display=02DF2928
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1771 d3d_create_display_locked        [   0.04370] al_display->vt=0163EF20
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_display_formats.cpp:144  _al_d3d_generate_display_format_list [   0.04541] found 64 format combinations
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04542] color: 32 (rgba 8880), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.04544] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04544] color: 32 (rgba 8880), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.04545] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04546] color: 32 (rgba 8880), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.04547] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04548] color: 32 (rgba 8880), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.04548] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04549] color: 32 (rgba 8880), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.04550] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04550] color: 32 (rgba 8880), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.04551] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04551] color: 32 (rgba 8880), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.04552] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04552] color: 32 (rgba 8880), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.04553] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04554] color: 16 (rgba 5650), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.04554] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04555] color: 16 (rgba 5650), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.04555] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04556] color: 16 (rgba 5650), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.04557] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04557] color: 16 (rgba 5650), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.04558] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04558] color: 16 (rgba 5650), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.04559] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04559] color: 16 (rgba 5650), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.04560] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04561] color: 16 (rgba 5650), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.04568] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04569] color: 16 (rgba 5650), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.04570] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04570] color: 32 (rgba 8880), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.04571] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04572] color: 32 (rgba 8880), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.04572] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04573] color: 32 (rgba 8880), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.04574] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04574] color: 32 (rgba 8880), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.04575] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04576] color: 32 (rgba 8880), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.04576] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04577] color: 32 (rgba 8880), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.04577] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04578] color: 32 (rgba 8880), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.04579] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04579] color: 32 (rgba 8880), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.04580] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04580] color: 16 (rgba 5650), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.04581] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04582] color: 16 (rgba 5650), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.04582] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04583] color: 16 (rgba 5650), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.04584] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04586] color: 16 (rgba 5650), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.04587] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04587] color: 16 (rgba 5650), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.04588] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04589] color: 16 (rgba 5650), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.04589] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04590] color: 16 (rgba 5650), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.04591] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04591] color: 16 (rgba 5650), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.04592] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04592] color: 32 (rgba 8880), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.04593] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04593] color: 32 (rgba 8880), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.04594] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04595] color: 32 (rgba 8880), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.04595] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04596] color: 32 (rgba 8880), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.04597] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04597] color: 32 (rgba 8880), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.04598] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04598] color: 32 (rgba 8880), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.04599] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04599] color: 32 (rgba 8880), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.04600] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04601] color: 32 (rgba 8880), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.04602] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04614] color: 16 (rgba 5650), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.04615] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04615] color: 16 (rgba 5650), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.04616] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04617] color: 16 (rgba 5650), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.04619] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04620] color: 16 (rgba 5650), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.04620] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04621] color: 16 (rgba 5650), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.04622] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04622] color: 16 (rgba 5650), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.04623] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04623] color: 16 (rgba 5650), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.04624] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04625] color: 16 (rgba 5650), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.04625] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04626] color: 32 (rgba 8880), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.04627] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04627] color: 32 (rgba 8880), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.04628] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04629] color: 32 (rgba 8880), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.04629] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04630] color: 32 (rgba 8880), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.04631] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04631] color: 32 (rgba 8880), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.04632] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04632] color: 32 (rgba 8880), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.04633] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04634] color: 32 (rgba 8880), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.04635] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04635] color: 32 (rgba 8880), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.04636] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04637] color: 16 (rgba 5650), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.04637] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04638] color: 16 (rgba 5650), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.04639] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04639] color: 16 (rgba 5650), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.04640] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04641] color: 16 (rgba 5650), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.04641] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04642] color: 16 (rgba 5650), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.04643] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04644] color: 16 (rgba 5650), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.04645] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04645] color: 16 (rgba 5650), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.04646] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.04646] color: 16 (rgba 5650), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.04647] Single Buffer requirement not met.
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1669 d3d_create_display_internals     [   0.04648] Trying format 0.
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1344 d3d_display_thread_proc          [   0.04701] Chose a display format: 23
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1413 d3d_display_thread_proc          [   0.04705] Normal window.
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:781  d3d_create_device                [   0.06713] Using no depth stencil buffer
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:839  d3d_create_device                [   0.08012] BeginScene succeeded in create_device
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:847  d3d_create_device                [   0.08014] Success
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1692 d3d_create_display_internals     [   0.08017] Resumed after wait.
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1725 d3d_create_display_internals     [   0.08019] Format 0 succeeded.
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1756 d3d_create_display_internals     [   0.08022] Returning d3d_display: 02DF2928
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1781 d3d_create_display_locked        [   0.08023] al_display=02DF2928
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1782 d3d_create_display_locked        [   0.08024] al_display->vt=0163EF20
+system   D C:\LIBS5303Build\allegro5\src\win\wsystem.c:771  _al_win_safe_load_library        [   0.08049] PathFindOnPath found: C:\WINDOWS\system32\d3dx9_43.dll
+system   D C:\LIBS5303Build\allegro5\src\win\wsystem.c:682  load_library_at_path             [   0.08050] Calling LoadLibrary C:\WINDOWS\system32\d3dx9_43.dll
+system   I C:\LIBS5303Build\allegro5\src\win\wsystem.c:685  load_library_at_path             [   0.08082] Loaded C:\WINDOWS\system32\d3dx9_43.dll
+d3dx9    I C:\LIBS5303Build\allegro5\src\win\d3d_d3dx9.cpp:88   _imp_load_d3dx9_module_version   [   0.08084] Module "d3dx9_43.dll" loaded.
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.08088] added dtor for timer 02DF5750, func 0042B214
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.08089] added dtor for timer 02DF5960, func 0042B214
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.08236] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.08238] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.08238] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.08239] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.08239] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.08240] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.08240] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.08242] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.08243] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1196 real_choose_bitmap_format        [   0.08244] Alpha doesn't match
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1203 real_choose_bitmap_format        [   0.08244] Adapter format is 23
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1206 real_choose_bitmap_format        [   0.08245] Found a format
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:2378 d3d_create_bitmap                [   0.08245] Chose bitmap format 9
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.08265] added dtor for bitmap 02DFDDF8, func 00402DFB
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.08267] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.08268] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.08268] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.08269] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.08270] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.08270] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.08271] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.08271] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.08272] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1196 real_choose_bitmap_format        [   0.08272] Alpha doesn't match
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1203 real_choose_bitmap_format        [   0.08273] Adapter format is 23
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1206 real_choose_bitmap_format        [   0.08273] Found a format
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:2378 d3d_create_bitmap                [   0.08274] Chose bitmap format 9
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.08327] added dtor for bitmap 02DFD978, func 00402DFB
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.08329] opening BrickBitmap.png rb
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.08514] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.08515] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.08516] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.08517] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.08517] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.08518] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.08518] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.08519] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.08519] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1196 real_choose_bitmap_format        [   0.08520] Alpha doesn't match
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1203 real_choose_bitmap_format        [   0.08520] Adapter format is 23
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1206 real_choose_bitmap_format        [   0.08521] Found a format
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:2378 d3d_create_bitmap                [   0.08522] Chose bitmap format 9
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.08533] added dtor for bitmap 02E72C48, func 00402DFB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.08833] added dtor for queue 02E72BA8, func 0042197B
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.08835] added dtor for timer 02DF5330, func 0042B214
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.08836] added dtor for timer 02DF5A10, func 0042B214
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.12498] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.12500] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.12865] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.12868] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.13343] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.13346] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.13456] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.13457] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.13826] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.13832] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.14169] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.14172] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.14441] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.14444] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.15035] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.15037] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.15331] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.15334] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.16689] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.16691] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.17002] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.17005] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.18355] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.18357] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.18661] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.18664] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.19999] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.20001] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.20315] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.20317] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.21637] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.21639] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.21931] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.21933] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.23303] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.23306] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.23602] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.23605] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.24972] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.24974] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.25260] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.25262] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.26700] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.26702] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.27003] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.27006] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.28369] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.28371] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.28669] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.28672] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.30006] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.30008] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.30298] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.30300] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.31735] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.31737] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.32038] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.32042] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.33373] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.33376] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.33664] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.33667] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.34988] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.34991] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.35284] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.35288] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.36723] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.36726] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.37065] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.37069] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.38380] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.38383] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.38690] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.38693] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.40075] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.40078] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.40393] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.40396] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.41680] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.41682] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.41997] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.42001] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.43322] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.43325] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.43614] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.43618] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.44984] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.44987] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.45269] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.45273] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.46707] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.46710] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.47008] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.47011] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.48321] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.48324] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.48622] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.48625] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.50033] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.50036] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.50292] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.50295] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.51661] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.51664] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.51956] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.51960] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.53376] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.53379] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.53678] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.53682] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.55012] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.55015] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.55312] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.55315] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.56658] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.56661] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.56953] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.56956] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.58330] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.58333] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.58621] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.58625] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.60075] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.60078] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.60357] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.60361] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.61686] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.61689] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.61987] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.61990] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.63316] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.63319] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.63612] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.63615] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.65018] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.65021] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.65309] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.65313] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.66673] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.66676] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.66965] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.66969] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.68365] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.68368] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.68668] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.68671] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.70059] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.70063] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.70336] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.70340] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.71713] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.71716] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.72005] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.72008] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.73331] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.73334] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.73618] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.73621] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.74988] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.74991] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.75283] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.75286] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.76706] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.76709] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.77003] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.77007] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.78380] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.78385] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.78680] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.78684] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.79987] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.79990] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.80276] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.80280] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.81720] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.81723] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.82024] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.82028] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.83334] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.83337] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.83624] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.83628] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.85056] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.85059] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.85355] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.85359] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.86637] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.86640] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.86949] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.86951] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.88372] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.88374] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.88672] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.88674] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.89970] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.89972] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.90286] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.90289] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.91645] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.91648] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.91957] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.91960] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.93389] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.93392] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.93708] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.93716] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.95071] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.95073] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.95403] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.95405] _al_d3d_sync_bitmap (video) ref count == 1
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.96237] removed dtor for timer 02DF5750
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.96240] removed dtor for timer 02DF5960
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:901  d3d_destroy_display              [   0.96242] destroying display 02DF2928 (current 00000000)
+bitmap   D C:\LIBS5303Build\allegro5\src\bitmap_type.c:308  _al_convert_to_memory_bitmap     [   0.96623] converting display bitmap 02E72C48 to memory bitmap
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.96627] added dtor for bitmap 02E700F8, func 00402DFB
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.96629] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.96629] _al_d3d_sync_bitmap (video) ref count == 1
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.96710] removed dtor for bitmap 02E700F8
+bitmap   D C:\LIBS5303Build\allegro5\src\bitmap_type.c:308  _al_convert_to_memory_bitmap     [   0.96715] converting display bitmap 02DFD978 to memory bitmap
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.96718] added dtor for bitmap 02E700F8, func 00402DFB
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.96719] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.96720] _al_d3d_sync_bitmap (video) ref count == 1
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.96840] removed dtor for bitmap 02E700F8
+bitmap   D C:\LIBS5303Build\allegro5\src\bitmap_type.c:308  _al_convert_to_memory_bitmap     [   0.96850] converting display bitmap 02DFDDF8 to memory bitmap
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.96853] added dtor for bitmap 02E700F8, func 00402DFB
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.96855] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.96855] _al_d3d_sync_bitmap (video) ref count == 1
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.97151] removed dtor for bitmap 02E700F8
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:885  d3d_destroy_display_internals    [   0.97193] waiting for display 02DF2928's thread to end
+d3d      W C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:595  d3d_destroy_device               [   0.97860] d3d_destroy_device: ref count not 0
+d3d      W C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:595  d3d_destroy_device               [   0.97863] d3d_destroy_device: ref count not 0
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1549 d3d_display_thread_proc          [   0.98430] d3d display thread exits
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.98606] removed dtor for queue 0163EEA0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:116  _al_run_destructors              [   0.98609] calling dtor for timer 02DF5A10, func 0042B214
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.98610] removed dtor for timer 02DF5A10
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:116  _al_run_destructors              [   0.98611] calling dtor for timer 02DF5330, func 0042B214
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.98612] removed dtor for timer 02DF5330
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:116  _al_run_destructors              [   0.98613] calling dtor for queue 02E72BA8, func 0042197B
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.98613] removed dtor for queue 02E72BA8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:116  _al_run_destructors              [   0.98614] calling dtor for bitmap 02E72C48, func 00402DFB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.98615] removed dtor for bitmap 02E72C48
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:116  _al_run_destructors              [   0.98615] calling dtor for bitmap 02DFD978, func 00402DFB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.98616] removed dtor for bitmap 02DFD978
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:116  _al_run_destructors              [   0.98617] calling dtor for bitmap 02DFDDF8, func 00402DFB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.98617] removed dtor for bitmap 02DFDDF8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.98792] removed dtor for sample_instance 0163D060
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.98794] removed dtor for sample_instance 0163D378
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.98795] removed dtor for sample_instance 0163D8A0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.98796] removed dtor for sample_instance 0163DBB0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.98796] removed dtor for sample_instance 0163CE70
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.98797] removed dtor for sample_instance 0163CF60
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.98798] removed dtor for sample_instance 0163E4B0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.98798] removed dtor for sample_instance 0163E5A0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.98799] removed dtor for sample_instance 0163E720
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.98799] removed dtor for sample_instance 0163E810
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.98800] removed dtor for sample_instance 0163E900
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.98801] removed dtor for sample_instance 0163E9F0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.98801] removed dtor for sample_instance 0163EAE0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.98802] removed dtor for sample_instance 0163EBD0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.98803] removed dtor for sample_instance 0163ECC0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.98803] removed dtor for sample_instance 0163EDB0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.98804] removed dtor for mixer 0163CCD0
+audio-dsound D C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:509  _dsound_stop_voice               [   0.98805] Stopping voice
+audio-dsound D C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:526  _dsound_stop_voice               [   0.98805] Joining thread
+audio-dsound D C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:532  _dsound_stop_voice               [   0.99446] Joined thread
+audio-dsound D C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:534  _dsound_stop_voice               [   0.99448] Destroying thread
+audio-dsound D C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:536  _dsound_stop_voice               [   0.99449] Thread destroyed
+audio-dsound D C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:543  _dsound_stop_voice               [   0.99449] Releasing buffer
+audio-dsound I C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:547  _dsound_stop_voice               [   0.99450] Voice stopped
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.99452] removed dtor for voice 0163C3E8
+audio-dsound D C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:359  _dsound_deallocate_voice         [   0.99453] Deallocating voice
+audio-dsound D C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:364  _dsound_deallocate_voice         [   0.99454] Deallocated voice
+audio-dsound D C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:275  _dsound_close                    [   0.99454] Releasing device
+audio-dsound D C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:277  _dsound_close                    [   1.01649] Released device
+audio-dsound I C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:278  _dsound_close                    [   1.01651] DirectSound closed
