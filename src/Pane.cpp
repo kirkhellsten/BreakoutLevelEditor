@@ -1,7 +1,6 @@
 #include "Pane.h"
 
-Pane::Pane(int x, int y, int width, int height, int gridX, int gridY) : UIWidget(x, y, width, height)
-{
+Pane::Pane(int x, int y, int width, int height, const char *title, int gridX, int gridY) : UIWidget(x, y, width, height) {
 
     this->gridX = gridX;
     this->gridY = gridY;
@@ -16,6 +15,8 @@ Pane::Pane(int x, int y, int width, int height, int gridX, int gridY) : UIWidget
 
     this->titleBackgroundColor = al_map_rgb(255, 255, 255);
     this->titleBorderColor = al_map_rgb(175, 175, 175);
+
+    this->_title = title;
 }
 
 Pane::~Pane() {
@@ -24,16 +25,15 @@ Pane::~Pane() {
 
 void Pane::render() {
 
-    ALLEGRO_BITMAP *currentTargetBitmap = al_get_target_bitmap();
-    al_set_target_bitmap(this->bitmap);
+    UIWidget::render();
+
+    AH_set_target_bitmap(this->_bitmap);
 
     this->_renderGrid();
     this->_renderTitleArea();
     this->_renderContentArea();
 
-    al_set_target_bitmap(currentTargetBitmap);
-    UIWidget::render();
-
+    AH_set_original_bitmap();
 
 }
 
@@ -49,19 +49,24 @@ void Pane::_renderGrid() {
            this->gridColor, this->borderThickness);
     }
 
-
 }
 
 void Pane::_renderTitleArea() {
+
+    static ALLEGRO_FONT *font = al_create_builtin_font();
+
     al_draw_filled_rectangle(0, 0, this->width(), this->titleHeight, this->titleBackgroundColor);
     al_draw_rectangle(0, 0, this->width() - this->titleBorderThickness,
                       this->titleHeight,
                       this->titleBorderColor, this->titleBorderThickness);
+    al_draw_text(font, al_map_rgb(0, 0, 0), 5, 7, 0,
+       this->_title);
+
 }
 
 void Pane::_renderContentArea() {
     if (this->contentAreaBackgroundBitmap != NULL) {
-        al_draw_bitmap(this->contentAreaBackgroundBitmap, this->x, this->y+titleHeight, NULL);
+        al_draw_bitmap(this->contentAreaBackgroundBitmap, this->_x, this->_y+titleHeight, NULL);
     }
 }
 

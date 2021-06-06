@@ -1,0 +1,221 @@
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.00000] opening C:\LIBS5303Distro\Allegro522_MinGW5303\bin\tests\allegro5.cfg r
+system   D C:\LIBS5303Build\allegro5\src\win\wsystem.c:771  _al_win_safe_load_library        [   0.00000] PathFindOnPath found: C:\WINDOWS\system32\shcore.dll
+system   D C:\LIBS5303Build\allegro5\src\win\wsystem.c:682  load_library_at_path             [   0.00000] Calling LoadLibrary C:\WINDOWS\system32\shcore.dll
+system   I C:\LIBS5303Build\allegro5\src\win\wsystem.c:685  load_library_at_path             [   0.00000] Loaded C:\WINDOWS\system32\shcore.dll
+system   I C:\LIBS5303Build\allegro5\src\system.c:257  al_install_system                [   0.00000] Allegro version: 5.2.3 (GIT)
+system   D C:\LIBS5303Build\allegro5\src\win\wsystem.c:771  _al_win_safe_load_library        [   0.00127] PathFindOnPath found: C:\WINDOWS\system32\d3d9.dll
+system   D C:\LIBS5303Build\allegro5\src\win\wsystem.c:682  load_library_at_path             [   0.00129] Calling LoadLibrary C:\WINDOWS\system32\d3d9.dll
+system   I C:\LIBS5303Build\allegro5\src\win\wsystem.c:685  load_library_at_path             [   0.00287] Loaded C:\WINDOWS\system32\d3d9.dll
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:674  d3d_init_display                 [   0.00726] Render-to-texture: 1
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1769 d3d_create_display_locked        [   0.00769] faux_fullscreen=0
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1770 d3d_create_display_locked        [   0.00771] al_display=00F5E848
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1771 d3d_create_display_locked        [   0.00772] al_display->vt=00F5E790
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_display_formats.cpp:144  _al_d3d_generate_display_format_list [   0.00819] found 64 format combinations
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00821] color: 32 (rgba 8880), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.00822] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00823] color: 32 (rgba 8880), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.00824] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00825] color: 32 (rgba 8880), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.00826] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00826] color: 32 (rgba 8880), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.00827] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00828] color: 32 (rgba 8880), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.00828] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00829] color: 32 (rgba 8880), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.00830] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00831] color: 32 (rgba 8880), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.00832] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00832] color: 32 (rgba 8880), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.00834] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00834] color: 16 (rgba 5650), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.00835] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00836] color: 16 (rgba 5650), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.00837] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00837] color: 16 (rgba 5650), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.00838] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00839] color: 16 (rgba 5650), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.00840] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00841] color: 16 (rgba 5650), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.00841] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00842] color: 16 (rgba 5650), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.00843] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00844] color: 16 (rgba 5650), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.00845] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00845] color: 16 (rgba 5650), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.00846] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00847] color: 32 (rgba 8880), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.00848] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00849] color: 32 (rgba 8880), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.00850] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00850] color: 32 (rgba 8880), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.00851] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00852] color: 32 (rgba 8880), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.00853] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00854] color: 32 (rgba 8880), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.00855] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00856] color: 32 (rgba 8880), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.00857] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00857] color: 32 (rgba 8880), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.00858] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00859] color: 32 (rgba 8880), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.00860] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00861] color: 16 (rgba 5650), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.00861] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00862] color: 16 (rgba 5650), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.00863] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00864] color: 16 (rgba 5650), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.00865] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00865] color: 16 (rgba 5650), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.00866] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00867] color: 16 (rgba 5650), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.00868] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00869] color: 16 (rgba 5650), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.00870] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00871] color: 16 (rgba 5650), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.00872] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00873] color: 16 (rgba 5650), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.00874] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00874] color: 32 (rgba 8880), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.00875] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00876] color: 32 (rgba 8880), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.00877] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00878] color: 32 (rgba 8880), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.00880] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00881] color: 32 (rgba 8880), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.00882] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00883] color: 32 (rgba 8880), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.00884] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00885] color: 32 (rgba 8880), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.00886] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00887] color: 32 (rgba 8880), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.00888] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00888] color: 32 (rgba 8880), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.00889] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00890] color: 16 (rgba 5650), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.00893] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00894] color: 16 (rgba 5650), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.00895] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00896] color: 16 (rgba 5650), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.00897] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00898] color: 16 (rgba 5650), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.00899] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00900] color: 16 (rgba 5650), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.00901] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00901] color: 16 (rgba 5650), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.00902] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00904] color: 16 (rgba 5650), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.00905] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00906] color: 16 (rgba 5650), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.00907] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00908] color: 32 (rgba 8880), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.00910] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00910] color: 32 (rgba 8880), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.00911] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00912] color: 32 (rgba 8880), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.00912] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00913] color: 32 (rgba 8880), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.00913] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00914] color: 32 (rgba 8880), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.00920] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00921] color: 32 (rgba 8880), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.00922] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00922] color: 32 (rgba 8880), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.00923] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00923] color: 32 (rgba 8880), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.00924] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00924] color: 16 (rgba 5650), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.00925] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00925] color: 16 (rgba 5650), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.00928] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00929] color: 16 (rgba 5650), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.00930] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00931] color: 16 (rgba 5650), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.00932] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00933] color: 16 (rgba 5650), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.00934] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00934] color: 16 (rgba 5650), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.00935] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00935] color: 16 (rgba 5650), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.00936] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.00936] color: 16 (rgba 5650), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.00937] Single Buffer requirement not met.
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1669 d3d_create_display_internals     [   0.00938] Trying format 0.
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1344 d3d_display_thread_proc          [   0.00962] Chose a display format: 23
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1413 d3d_display_thread_proc          [   0.00964] Normal window.
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:781  d3d_create_device                [   0.01741] Using no depth stencil buffer
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:839  d3d_create_device                [   0.02218] BeginScene succeeded in create_device
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:847  d3d_create_device                [   0.02220] Success
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1692 d3d_create_display_internals     [   0.02223] Resumed after wait.
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1725 d3d_create_display_internals     [   0.02225] Format 0 succeeded.
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1756 d3d_create_display_internals     [   0.02226] Returning d3d_display: 00F5E848
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1781 d3d_create_display_locked        [   0.02227] al_display=00F5E848
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1782 d3d_create_display_locked        [   0.02227] al_display->vt=00F5E790
+system   D C:\LIBS5303Build\allegro5\src\win\wsystem.c:771  _al_win_safe_load_library        [   0.02248] PathFindOnPath found: C:\WINDOWS\system32\d3dx9_43.dll
+system   D C:\LIBS5303Build\allegro5\src\win\wsystem.c:682  load_library_at_path             [   0.02249] Calling LoadLibrary C:\WINDOWS\system32\d3dx9_43.dll
+system   I C:\LIBS5303Build\allegro5\src\win\wsystem.c:685  load_library_at_path             [   0.02277] Loaded C:\WINDOWS\system32\d3dx9_43.dll
+d3dx9    I C:\LIBS5303Build\allegro5\src\win\d3d_d3dx9.cpp:88   _imp_load_d3dx9_module_version   [   0.02279] Module "d3dx9_43.dll" loaded.
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.02284] added dtor for bitmap 00F5EC70, func 677819CB
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.02285] opening test_prim2.ini r
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.34471] added dtor for bitmap 02685418, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.37531] removed dtor for bitmap 02685418
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.37553] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.37554] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.37555] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.37555] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.37556] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.37556] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.37557] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.37557] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.37557] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1196 real_choose_bitmap_format        [   0.37558] Alpha doesn't match
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1203 real_choose_bitmap_format        [   0.37558] Adapter format is 23
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1206 real_choose_bitmap_format        [   0.37559] Found a format
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:2378 d3d_create_bitmap                [   0.37560] Chose bitmap format 9
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.37580] added dtor for bitmap 02685418, func 677819CB
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.39355] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.39359] _al_d3d_sync_bitmap (video) ref count == 1
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.39533] removed dtor for bitmap 02685418
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.39661] added dtor for bitmap 02685418, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.42528] removed dtor for bitmap 02685418
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.42556] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.42557] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.42559] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.42559] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.42560] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.42561] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.42561] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.42562] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.42563] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1196 real_choose_bitmap_format        [   0.42563] Alpha doesn't match
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1203 real_choose_bitmap_format        [   0.42564] Adapter format is 23
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1206 real_choose_bitmap_format        [   0.42565] Found a format
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:2378 d3d_create_bitmap                [   0.42566] Chose bitmap format 9
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.42633] added dtor for bitmap 02685418, func 677819CB
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.44200] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.44205] _al_d3d_sync_bitmap (video) ref count == 1
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.44459] removed dtor for bitmap 02685418
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.44584] added dtor for bitmap 02685418, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.47502] removed dtor for bitmap 02685418
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.47528] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.47529] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.47529] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.47529] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.47530] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.47530] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.47531] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.47531] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.47532] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1196 real_choose_bitmap_format        [   0.47532] Alpha doesn't match
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1203 real_choose_bitmap_format        [   0.47532] Adapter format is 23
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1206 real_choose_bitmap_format        [   0.47533] Found a format
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:2378 d3d_create_bitmap                [   0.47534] Chose bitmap format 9
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.47614] added dtor for bitmap 02685418, func 677819CB
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.49203] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.49210] _al_d3d_sync_bitmap (video) ref count == 1
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.49455] removed dtor for bitmap 02685418
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:116  _al_run_destructors              [   0.49617] calling dtor for bitmap 00F5EC70, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.49618] removed dtor for bitmap 00F5EC70
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:901  d3d_destroy_display              [   0.49703] destroying display 00F5E848 (current 00000000)
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:885  d3d_destroy_display_internals    [   0.49977] waiting for display 00F5E848's thread to end
+d3d      W C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:595  d3d_destroy_device               [   0.50390] d3d_destroy_device: ref count not 0
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1549 d3d_display_thread_proc          [   0.50658] d3d display thread exits

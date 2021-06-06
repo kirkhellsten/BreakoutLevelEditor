@@ -1,0 +1,6923 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.12.2)  28 FEB 2017 18:12
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**c:/LIBS5303Build/allegro5/build/docs/latex/refman.tex
+(c:/LIBS5303Build/allegro5/build/docs/latex/refman.tex
+LaTeX2e <2015/10/01> patch level 2
+Babel <3.9m> and hyphenation patterns for 79 languages loaded.
+(c:/texlive/2015/texmf-dist/tex/latex/memoir/memoir.cls
+Document Class: memoir 2015/07/08 v3.7e configurable book, report, article docu
+ment class
+\onelineskip=\skip41
+\lxvchars=\skip42
+\xlvchars=\skip43
+\@memcnta=\count79
+\c@@memmarkcntra=\count80
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(c:/texlive/2015/texmf-dist/tex/latex/ifetex/ifetex.sty
+Package: ifetex 2011/12/15 v1.2 ifetex
+
+(c:/texlive/2015/texmf-dist/tex/plain/ifetex/ifetex.tex))
+(c:/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+\stockheight=\skip44
+\stockwidth=\skip45
+\trimtop=\skip46
+\trimedge=\skip47
+
+(c:/texlive/2015/texmf-dist/tex/latex/memoir/mem10.clo
+File: mem10.clo 2008/01/30 v0.3 memoir class 10pt size option
+)
+\binding=\skip48
+\spinemargin=\skip49
+\foremargin=\skip50
+\uppermargin=\skip51
+\lowermargin=\skip52
+\headdrop=\skip53
+\normalrulethickness=\skip54
+\mem@maxheadheight=\skip55
+\mem@maxfootheight=\skip56
+\headwidth=\skip57
+\c@storedpagenumber=\count81
+\memPD=\dimen102
+\m@mabparskip=\skip58
+\thanksmarkwidth=\skip59
+\thanksmarksep=\skip60
+\droptitle=\skip61
+\c@book=\count82
+\c@part=\count83
+\c@chapter=\count84
+\c@section=\count85
+\c@subsection=\count86
+\c@subsubsection=\count87
+\c@paragraph=\count88
+\c@subparagraph=\count89
+\beforechapskip=\skip62
+\midchapskip=\skip63
+\afterchapskip=\skip64
+\chapindent=\skip65
+\bottomsectionskip=\skip66
+\secindent=\skip67
+\beforesecskip=\skip68
+\aftersecskip=\skip69
+\subsecindent=\skip70
+\beforesubsecskip=\skip71
+\aftersubsecskip=\skip72
+\subsubsecindent=\skip73
+\beforesubsubsecskip=\skip74
+\aftersubsubsecskip=\skip75
+\paraindent=\skip76
+\beforeparaskip=\skip77
+\afterparaskip=\skip78
+\subparaindent=\skip79
+\beforesubparaskip=\skip80
+\aftersubparaskip=\skip81
+\pfbreakskip=\skip82
+\c@@ppsavesec=\count90
+\c@@ppsaveapp=\count91
+\ragrparindent=\dimen103
+\everylistparindent=\dimen104
+\parsepi=\skip83
+\topsepi=\skip84
+\itemsepi=\skip85
+\parsepii=\skip86
+\topsepii=\skip87
+\topsepiii=\skip88
+\itemsepii=\skip89
+\itemsepiii=\skip90
+\partopsepii=\skip91
+\partopsepiii=\skip92
+\m@msavetopsep=\skip93
+\m@msavepartopsep=\skip94
+\@enLab=\toks14
+\abstitleskip=\skip95
+\absleftindent=\skip96
+\abs@leftindent=\dimen105
+\absrightindent=\skip97
+\absparindent=\skip98
+\absparsep=\skip99
+\c@vslineno=\count92
+\c@poemline=\count93
+\c@modulo@vs=\count94
+\c@memfvsline=\count95
+\vleftskip=\skip100
+\vrightskip=\skip101
+\stanzaskip=\skip102
+\versewidth=\skip103
+\vgap=\skip104
+\vindent=\skip105
+\vleftmargin=\dimen106
+\c@verse=\count96
+\c@chrsinstr=\count97
+\beforepoemtitleskip=\skip106
+\afterpoemtitleskip=\skip107
+\c@poem=\count98
+\beforePoemTitleskip=\skip108
+\midPoemTitleskip=\skip109
+\afterPoemTitleskip=\skip110
+\col@sep=\dimen107
+\extrarowheight=\dimen108
+\NC@list=\toks15
+\extratabsurround=\skip111
+\backup@length=\skip112
+\TX@col@width=\dimen109
+\TX@old@table=\dimen110
+\TX@old@col=\dimen111
+\TX@target=\dimen112
+\TX@delta=\dimen113
+\TX@cols=\count99
+\TX@ftn=\toks16
+\heavyrulewidth=\dimen114
+\lightrulewidth=\dimen115
+\cmidrulewidth=\dimen116
+\belowrulesep=\dimen117
+\belowbottomsep=\dimen118
+\aboverulesep=\dimen119
+\abovetopsep=\dimen120
+\cmidrulesep=\dimen121
+\cmidrulekern=\dimen122
+\defaultaddspace=\dimen123
+\@cmidla=\count100
+\@cmidlb=\count101
+\@aboverulesep=\dimen124
+\@belowrulesep=\dimen125
+\@thisruleclass=\count102
+\@lastruleclass=\count103
+\@thisrulewidth=\dimen126
+\ctableftskip=\skip113
+\ctabrightskip=\skip114
+\abovecolumnspenalty=\count104
+\@linestogo=\count105
+\@cellstogo=\count106
+\@cellsincolumn=\count107
+\crtok=\toks17
+\@mincolumnwidth=\dimen127
+\c@newflo@tctr=\count108
+\mem@margin@floatbox=\box26
+\@contcwidth=\skip115
+\@contindw=\skip116
+\abovecaptionskip=\skip117
+\belowcaptionskip=\skip118
+\subfloattopskip=\skip119
+\subfloatcapskip=\skip120
+\subfloatcaptopadj=\skip121
+\subfloatbottomskip=\skip122
+\subfloatlabelskip=\skip123
+\subfloatcapmargin=\dimen128
+\c@@contsubnum=\count109
+\m@mscap@capbox=\box27
+\m@mscap@fbox=\box28
+\sidecapsep=\dimen129
+\sidecapwidth=\dimen130
+\m@m@tempdima=\dimen131
+\m@mscapraise=\dimen132
+\sidecapraise=\dimen133
+\m@mscapmainwidth=\dimen134
+\m@mscaplkern=\dimen135
+\beforeepigraphskip=\skip124
+\afterepigraphskip=\skip125
+\epigraphwidth=\skip126
+\epigraphrule=\skip127
+LaTeX Info: Redefining \em on input line 7535.
+LaTeX Info: Redefining \emph on input line 7543.
+\tocentryskip=\skip128
+\tocbaseline=\skip129
+\cftparskip=\skip130
+\cftbeforebookskip=\skip131
+\cftbookindent=\dimen136
+\cftbooknumwidth=\dimen137
+\cftbeforepartskip=\skip132
+\cftpartindent=\skip133
+\cftpartnumwidth=\skip134
+\cftbeforechapterskip=\skip135
+\cftchapterindent=\skip136
+\cftchapternumwidth=\skip137
+\cftbeforesectionskip=\skip138
+\cftsectionindent=\skip139
+\cftsectionnumwidth=\skip140
+\cftbeforesubsectionskip=\skip141
+\cftsubsectionindent=\skip142
+\cftsubsectionnumwidth=\skip143
+\cftbeforesubsubsectionskip=\skip144
+\cftsubsubsectionindent=\skip145
+\cftsubsubsectionnumwidth=\skip146
+\cftbeforeparagraphskip=\skip147
+\cftparagraphindent=\skip148
+\cftparagraphnumwidth=\skip149
+\cftbeforesubparagraphskip=\skip150
+\cftsubparagraphindent=\skip151
+\cftsubparagraphnumwidth=\skip152
+\prechapterprecisshift=\dimen138
+\c@maxsecnumdepth=\count110
+\bibindent=\dimen139
+\bibitemsep=\skip153
+\indexcolsep=\skip154
+\indexrule=\skip155
+\indexmarkstyle=\toks18
+\@indexbox=\insert199
+\glossarycolsep=\dimen140
+\glossaryrule=\dimen141
+\sideparvshift=\skip156
+\sideins=\insert198
+\sidebartopsep=\skip157
+\sidebarhsep=\skip158
+\sidebarvsep=\skip159
+\sidebarwidth=\skip160
+\footmarkwidth=\skip161
+\footmarksep=\skip162
+\footparindent=\skip163
+\footinsdim=\skip164
+\footinsv@r=\insert197
+\@mpfootinsv@r=\insert196
+\m@m@k=\count111
+\m@m@h=\dimen142
+\m@mipn@skip=\skip165
+\sidefootins=\insert195
+\sidefootadjust=\skip166
+\sidefootheight=\skip167
+\sidefoothsep=\skip168
+\sidefootvsep=\skip169
+\sidefootwidth=\skip170
+\m@mdownsf=\skip171
+\c@sidefootnote=\count112
+\sidefootmarkwidth=\skip172
+\sidefootmarksep=\skip173
+\sidefootparindent=\skip174
+\c@pagenote=\count113
+\c@pagenoteshadow=\count114
+\mem@pn@lastkern=\skip175
+\every@verbatim=\toks19
+\afterevery@verbatim=\toks20
+\verbatim@line=\toks21
+\tab@position=\count115
+\verbatim@in@stream=\read1
+\verbatimindent=\skip176
+\verbatim@out=\write3
+\bvboxsep=\skip177
+\c@memfbvline=\count116
+\c@bvlinectr=\count117
+\bvnumlength=\skip178
+\fb@frw=\dimen143
+\fb@frh=\dimen144
+\FrameRule=\dimen145
+\FrameSep=\dimen146
+\c@cp@cntr=\count118
+LaTeX Info: Redefining \: on input line 12052.
+LaTeX Info: Redefining \! on input line 12054.
+\c@ism@mctr=\count119
+\c@xsm@mctr=\count120
+\c@csm@mctr=\count121
+\c@ksm@mctr=\count122
+\c@xksm@mctr=\count123
+\c@cksm@mctr=\count124
+\c@msm@mctr=\count125
+\c@xmsm@mctr=\count126
+\c@cmsm@mctr=\count127
+\c@bsm@mctr=\count128
+\c@workm@mctr=\count129
+\c@sheetsequence=\count130
+\c@lastsheet=\count131
+\c@lastpage=\count132
+\c@figure=\count133
+\c@lofdepth=\count134
+\cftbeforefigureskip=\skip179
+\cftfigureindent=\skip180
+\cftfigurenumwidth=\skip181
+\c@table=\count135
+\c@lotdepth=\count136
+\cftbeforetableskip=\skip182
+\cfttableindent=\skip183
+\cfttablenumwidth=\skip184
+Package abstract [2008/07/23] emulated by memoir.
+Package appendix [2008/07/23] emulated by memoir.
+Package array [2008/09/09] emulated by memoir.
+Package booktabs [2008/07/23] emulated by memoir.
+Package ccaption [2008/07/23] emulated by memoir.
+Package changepage [2008/07/23] emulated by memoir.
+Package chngcntr [2008/07/23] emulated by memoir.
+Package chngpage [2008/07/23] emulated by memoir.
+Package crop emulated by memoir.
+Package dcolumn [2008/07/23] emulated by memoir.
+Package delarray [2008/07/23] emulated by memoir.
+Package enumerate [2008/07/23] emulated by memoir.
+Package epigraph [2008/07/23] emulated by memoir.
+Package ifmtarg [2008/07/23] emulated by memoir.
+Package index [2008/07/23] emulated by memoir.
+Package makeidx [2008/07/23] emulated by memoir.
+Package moreverb [2008/07/23] emulated by memoir.
+Package mparhack [2008/07/23] emulated by memoir.
+Package needspace [2008/07/23] emulated by memoir.
+Package newfile [2008/07/23] emulated by memoir.
+Package nextpage [2008/07/23] emulated by memoir.
+Package pagenote [2008/07/23] emulated by memoir.
+Package parskip [2008/07/23] emulated by memoir.
+Package patchcmd [2008/07/23] emulated by memoir.
+Package setspace [2008/07/23] emulated by memoir.
+Package shortvrb [2008/07/23] emulated by memoir.
+Package showidx [2008/07/23] emulated by memoir.
+Package tabularx [2008/07/23] emulated by memoir.
+Package titleref [2008/07/23] emulated by memoir.
+Package titling [2008/07/23] emulated by memoir.
+Package tocbibind [2008/07/23] emulated by memoir.
+Package tocloft [2008/07/23] emulated by memoir.
+Package tocvsec2 [2008/07/23] emulated by memoir.
+Package verbatim [2008/07/23] emulated by memoir.
+Package verse [2008/07/23] emulated by memoir.
+
+(c:/texlive/2015/texmf-dist/tex/latex/memoir/mempatch.sty
+Package: mempatch 2009/07/24 v6.0f Patches for memoir class v1.6180339
+))
+(c:/texlive/2015/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(c:/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+\Gm@cnth=\count137
+\Gm@cntv=\count138
+\c@Gm@tempcnt=\count139
+\Gm@bindingoffset=\dimen147
+\Gm@wd@mp=\dimen148
+\Gm@odd@mp=\dimen149
+\Gm@even@mp=\dimen150
+\Gm@layoutwidth=\dimen151
+\Gm@layoutheight=\dimen152
+\Gm@layouthoffset=\dimen153
+\Gm@layoutvoffset=\dimen154
+\Gm@dimlist=\toks23
+)
+(c:/texlive/2015/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(c:/texlive/2015/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(c:/texlive/2015/texmf-dist/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(c:/texlive/2015/texmf-dist/tex/latex/psnfss/charter.sty
+Package: charter 2005/04/12 PSNFSS-v9.2a (P.Dyballa) 
+)
+(c:/texlive/2015/texmf-dist/tex/latex/inconsolata/inconsolata.sty
+Package: inconsolata 2014/06/22 v1.05
+
+`inconsolata-zi4' v1.05, 2014/06/22 Text macros for Inconsolata (msharpe)
+(c:/texlive/2015/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(c:/texlive/2015/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+\zifour@ocount=\count140
+)
+(c:/texlive/2015/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip185
+\enit@outerparindent=\dimen155
+\enit@toks=\toks24
+\enit@inbox=\box29
+\enitdp@description=\count141
+)
+(c:/texlive/2015/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(c:/texlive/2015/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks25
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(c:/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip186
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(c:/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks26
+\ex@=\dimen156
+))
+(c:/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen157
+)
+(c:/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count142
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count143
+\leftroot@=\count144
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count145
+\DOTSCASE@=\count146
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box30
+\strutbox@=\box31
+\big@size=\dimen158
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count147
+\c@MaxMatrixCols=\count148
+\dotsspace@=\muskip10
+\c@parentequation=\count149
+\dspbrk@lvl=\count150
+\tag@help=\toks27
+\row@=\count151
+\column@=\count152
+\maxfields@=\count153
+\andhelp@=\toks28
+\eqnshift@=\dimen159
+\alignsep@=\dimen160
+\tagshift@=\dimen161
+\tagwidth@=\dimen162
+\totwidth@=\dimen163
+\lineht@=\dimen164
+\@envbody=\toks29
+\multlinegap=\skip187
+\multlinetaggap=\skip188
+\mathdisplay@stack=\toks30
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(c:/texlive/2015/texmf-dist/tex/latex/ucs/ucs.sty
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+(c:/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-global.def
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count154
+\uc@combtoks=\toks31
+\uc@combtoksb=\toks32
+\uc@temptokena=\toks33
+)
+(c:/texlive/2015/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks34
+\inpenc@posthook=\toks35
+
+(c:/texlive/2015/texmf-dist/tex/latex/ucs/utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+(c:/texlive/2015/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2008/02/07
+
+Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
+<2008/02/07> (tvz)
+\FV@CodeLineNo=\count155
+\FV@InFile=\read2
+\FV@TabBox=\box32
+\c@FancyVerbLine=\count156
+\FV@StepNumber=\count157
+\FV@OutFile=\write4
+) (c:/texlive/2015/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(c:/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(c:/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+(c:/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count158
+))
+\Gin@req@height=\dimen165
+\Gin@req@width=\dimen166
+)
+(c:/texlive/2015/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(c:/texlive/2015/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(c:/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen167
+\Hy@linkcounter=\count159
+\Hy@pagecounter=\count160
+
+(c:/texlive/2015/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count161
+
+(c:/texlive/2015/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 4319.
+Package hyperref Info: Option `unicode' set `true' on input line 4319.
+
+(c:/texlive/2015/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2012/11/06 v6.83m Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count162
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen168
+\Fld@menulength=\count163
+\Field@Width=\dimen169
+\Fld@charsize=\dimen170
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count164
+\c@Item=\count165
+\c@Hfootnote=\count166
+)
+(c:/texlive/2015/texmf-dist/tex/latex/memoir/memhfixc.sty
+Package: memhfixc 2013/05/30 v1.17 nameref/hyperref package fixes for memoir cl
+ass
+\c@memhycontfloat=\count167
+\c@Hpagenote=\count168
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(c:/texlive/2015/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count169
+\c@bookmark@seq@number=\count170
+
+(c:/texlive/2015/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip189
+)
+(c:/texlive/2015/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
+
+(c:/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 142.
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 70.
+
+(C:/LIBS5303Build/allegro5/build/docs/pdf/refman.aux)
+\openout1 = `refman.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 77.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 77.
+
+(c:/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Try loading font information for T1+bch on input line 77.
+
+(c:/texlive/2015/texmf-dist/tex/latex/psnfss/t1bch.fd
+File: t1bch.fd 2004/10/18 font definitions for T1/bch.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* hratio: 1:1
+* vratio: 1:1
+* modes: twoside 
+* h-part:(L,W,R)=(73.97733pt, 449.55322pt, 73.97733pt)
+* v-part:(T,H,B)=(68.28644pt, 691.40215pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=449.55322pt
+* \textheight=691.40215pt
+* \oddsidemargin=1.70734pt
+* \evensidemargin=1.70734pt
+* \topmargin=-34.05104pt
+* \headheight=12.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=28.45274pt
+* \marginparwidth=117.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 4.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(c:/texlive/2015/texmf-dist/tex/latex/upquote/upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+)
+(c:/texlive/2015/texmf-dist/tex/latex/ucs/ucsencs.def
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+(c:/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count171
+\scratchdimen=\dimen171
+\scratchbox=\box33
+\nofMPsegments=\count172
+\nofMParguments=\count173
+\everyMPshowfont=\toks36
+\MPscratchCnt=\count174
+\MPscratchDim=\dimen172
+\MPnumerator=\count175
+\makeMPintoPDFobject=\count176
+\everyMPtoPDFconversion=\toks37
+) (c:/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(c:/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(c:/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box34
+Package hyperref Info: Link coloring ON on input line 77.
+
+(c:/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count177
+)
+Redoing nameref's sectioning
+Redoing nameref's label
+LaTeX Info: Redefining \nameref on input line 77.
+LaTeX Info: Redefining \ref on input line 77.
+LaTeX Info: Redefining \pageref on input line 77.
+LaTeX Info: Redefining \nameref on input line 77.
+(C:/LIBS5303Build/allegro5/build/docs/pdf/refman.out)
+(C:/LIBS5303Build/allegro5/build/docs/pdf/refman.out)
+\@outlinefile=\write5
+\openout5 = `refman.out'.
+
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 84.
+
+(c:/texlive/2015/texmf-dist/tex/latex/lm/t1lmss.fd
+File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) (./allegro_version.tex)
+LaTeX Font Info:    Try loading font information for TS1+bch on input line 95.
+
+(c:/texlive/2015/texmf-dist/tex/latex/psnfss/ts1bch.fd
+File: ts1bch.fd 2004/10/18 font definitions for TS1/bch.
+) [1
+
+
+{c:/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
+
+]
+(c:/texlive/2015/texmf-dist/tex/latex/lm/ot1lmr.fd)
+(c:/texlive/2015/texmf-dist/tex/latex/lm/omllmm.fd)
+(c:/texlive/2015/texmf-dist/tex/latex/lm/omslmsy.fd)
+(c:/texlive/2015/texmf-dist/tex/latex/lm/omxlmex.fd)
+(c:/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(c:/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(C:/LIBS5303Build/allegro5/build/docs/pdf/refman.toc [3] [4] [5] [6] [7]
+[8]
+Overfull \hbox (1.17996pt too wide) detected at line 346
+ \T1/bch/m/n/10 100
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 347
+ \T1/bch/m/n/10 100
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 348
+ \T1/bch/m/n/10 100
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 349
+ \T1/bch/m/n/10 100
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 350
+ \T1/bch/m/n/10 100
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 351
+ \T1/bch/m/n/10 100
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 352
+ \T1/bch/m/n/10 101
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 353
+ \T1/bch/m/n/10 101
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 354
+ \T1/bch/m/n/10 101
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 355
+ \T1/bch/m/n/10 102
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 356
+ \T1/bch/m/n/10 103
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 357
+ \T1/bch/m/n/10 104
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 358
+ \T1/bch/m/n/10 104
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 359
+ \T1/bch/m/n/10 104
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 360
+ \T1/bch/m/n/10 105
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 361
+ \T1/bch/m/n/10 105
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 362
+ \T1/bch/m/n/10 105
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 363
+ \T1/bch/m/n/10 105
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 364
+ \T1/bch/m/n/10 105
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 365
+ \T1/bch/m/n/10 106
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 366
+ \T1/bch/m/n/10 106
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 367
+ \T1/bch/m/n/10 107
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 368
+ \T1/bch/m/n/10 107
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 369
+ \T1/bch/m/n/10 107
+ []
+
+
+Overfull \hbox (1.92996pt too wide) detected at line 370
+ \T1/bch/b/n/10 109
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 371
+ \T1/bch/m/n/10 109
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 372
+ \T1/bch/m/n/10 109
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 373
+ \T1/bch/m/n/10 110
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 374
+ \T1/bch/m/n/10 112
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 375
+ \T1/bch/m/n/10 113
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 376
+ \T1/bch/m/n/10 113
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 377
+ \T1/bch/m/n/10 113
+ []
+
+[9]
+Overfull \hbox (1.17996pt too wide) detected at line 378
+ \T1/bch/m/n/10 113
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 379
+ \T1/bch/m/n/10 114
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 380
+ \T1/bch/m/n/10 114
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 381
+ \T1/bch/m/n/10 114
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 382
+ \T1/bch/m/n/10 114
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 383
+ \T1/bch/m/n/10 115
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 384
+ \T1/bch/m/n/10 115
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 385
+ \T1/bch/m/n/10 115
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 386
+ \T1/bch/m/n/10 115
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 387
+ \T1/bch/m/n/10 116
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 388
+ \T1/bch/m/n/10 116
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 389
+ \T1/bch/m/n/10 116
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 390
+ \T1/bch/m/n/10 116
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 391
+ \T1/bch/m/n/10 117
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 392
+ \T1/bch/m/n/10 117
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 393
+ \T1/bch/m/n/10 117
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 394
+ \T1/bch/m/n/10 117
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 395
+ \T1/bch/m/n/10 118
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 396
+ \T1/bch/m/n/10 118
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 397
+ \T1/bch/m/n/10 118
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 398
+ \T1/bch/m/n/10 119
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 399
+ \T1/bch/m/n/10 119
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 400
+ \T1/bch/m/n/10 119
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 401
+ \T1/bch/m/n/10 120
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 402
+ \T1/bch/m/n/10 120
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 403
+ \T1/bch/m/n/10 120
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 404
+ \T1/bch/m/n/10 121
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 405
+ \T1/bch/m/n/10 121
+ []
+
+
+Overfull \hbox (1.92996pt too wide) detected at line 406
+ \T1/bch/b/n/10 123
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 407
+ \T1/bch/m/n/10 123
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 408
+ \T1/bch/m/n/10 123
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 409
+ \T1/bch/m/n/10 123
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 410
+ \T1/bch/m/n/10 124
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 411
+ \T1/bch/m/n/10 124
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 412
+ \T1/bch/m/n/10 124
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 413
+ \T1/bch/m/n/10 124
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 414
+ \T1/bch/m/n/10 125
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 415
+ \T1/bch/m/n/10 125
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 416
+ \T1/bch/m/n/10 125
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 417
+ \T1/bch/m/n/10 125
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 418
+ \T1/bch/m/n/10 125
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 419
+ \T1/bch/m/n/10 126
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 420
+ \T1/bch/m/n/10 126
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 421
+ \T1/bch/m/n/10 126
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 422
+ \T1/bch/m/n/10 126
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 423
+ \T1/bch/m/n/10 126
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 424
+ \T1/bch/m/n/10 126
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 425
+ \T1/bch/m/n/10 127
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 426
+ \T1/bch/m/n/10 127
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 427
+ \T1/bch/m/n/10 127
+ []
+
+
+Overfull \hbox (1.92996pt too wide) detected at line 428
+ \T1/bch/b/n/10 129
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 429
+ \T1/bch/m/n/10 129
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 430
+ \T1/bch/m/n/10 129
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 431
+ \T1/bch/m/n/10 131
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 432
+ \T1/bch/m/n/10 131
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 433
+ \T1/bch/m/n/10 131
+ []
+
+[10]
+Overfull \hbox (1.17996pt too wide) detected at line 434
+ \T1/bch/m/n/10 132
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 435
+ \T1/bch/m/n/10 132
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 436
+ \T1/bch/m/n/10 132
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 437
+ \T1/bch/m/n/10 132
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 438
+ \T1/bch/m/n/10 133
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 439
+ \T1/bch/m/n/10 133
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 440
+ \T1/bch/m/n/10 133
+ []
+
+
+Overfull \hbox (1.92996pt too wide) detected at line 441
+ \T1/bch/b/n/10 135
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 442
+ \T1/bch/m/n/10 135
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 443
+ \T1/bch/m/n/10 135
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 444
+ \T1/bch/m/n/10 135
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 445
+ \T1/bch/m/n/10 135
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 446
+ \T1/bch/m/n/10 136
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 447
+ \T1/bch/m/n/10 136
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 448
+ \T1/bch/m/n/10 136
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 449
+ \T1/bch/m/n/10 136
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 450
+ \T1/bch/m/n/10 136
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 451
+ \T1/bch/m/n/10 137
+ []
+
+
+Overfull \hbox (1.92996pt too wide) detected at line 452
+ \T1/bch/b/n/10 139
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 453
+ \T1/bch/m/n/10 139
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 454
+ \T1/bch/m/n/10 139
+ []
+
+
+Overfull \hbox (1.92996pt too wide) detected at line 455
+ \T1/bch/b/n/10 141
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 456
+ \T1/bch/m/n/10 141
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 457
+ \T1/bch/m/n/10 141
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 458
+ \T1/bch/m/n/10 141
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 459
+ \T1/bch/m/n/10 142
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 460
+ \T1/bch/m/n/10 142
+ []
+
+
+Overfull \hbox (1.92996pt too wide) detected at line 461
+ \T1/bch/b/n/10 143
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 462
+ \T1/bch/m/n/10 143
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 463
+ \T1/bch/m/n/10 143
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 464
+ \T1/bch/m/n/10 143
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 465
+ \T1/bch/m/n/10 144
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 466
+ \T1/bch/m/n/10 144
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 467
+ \T1/bch/m/n/10 144
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 468
+ \T1/bch/m/n/10 144
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 469
+ \T1/bch/m/n/10 145
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 470
+ \T1/bch/m/n/10 145
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 471
+ \T1/bch/m/n/10 145
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 472
+ \T1/bch/m/n/10 145
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 473
+ \T1/bch/m/n/10 145
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 474
+ \T1/bch/m/n/10 146
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 475
+ \T1/bch/m/n/10 146
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 476
+ \T1/bch/m/n/10 146
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 477
+ \T1/bch/m/n/10 146
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 478
+ \T1/bch/m/n/10 147
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 479
+ \T1/bch/m/n/10 147
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 480
+ \T1/bch/m/n/10 147
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 481
+ \T1/bch/m/n/10 147
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 482
+ \T1/bch/m/n/10 147
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 483
+ \T1/bch/m/n/10 148
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 484
+ \T1/bch/m/n/10 148
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 485
+ \T1/bch/m/n/10 148
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 486
+ \T1/bch/m/n/10 148
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 487
+ \T1/bch/m/n/10 149
+ []
+
+[11]
+Overfull \hbox (1.92996pt too wide) detected at line 488
+ \T1/bch/b/n/10 151
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 489
+ \T1/bch/m/n/10 151
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 490
+ \T1/bch/m/n/10 151
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 491
+ \T1/bch/m/n/10 151
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 492
+ \T1/bch/m/n/10 152
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 493
+ \T1/bch/m/n/10 152
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 494
+ \T1/bch/m/n/10 152
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 495
+ \T1/bch/m/n/10 152
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 496
+ \T1/bch/m/n/10 152
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 497
+ \T1/bch/m/n/10 153
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 498
+ \T1/bch/m/n/10 153
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 499
+ \T1/bch/m/n/10 153
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 500
+ \T1/bch/m/n/10 153
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 501
+ \T1/bch/m/n/10 153
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 502
+ \T1/bch/m/n/10 154
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 503
+ \T1/bch/m/n/10 154
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 504
+ \T1/bch/m/n/10 154
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 505
+ \T1/bch/m/n/10 154
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 506
+ \T1/bch/m/n/10 154
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 507
+ \T1/bch/m/n/10 155
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 508
+ \T1/bch/m/n/10 155
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 509
+ \T1/bch/m/n/10 155
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 510
+ \T1/bch/m/n/10 155
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 511
+ \T1/bch/m/n/10 155
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 512
+ \T1/bch/m/n/10 156
+ []
+
+
+Overfull \hbox (1.92996pt too wide) detected at line 513
+ \T1/bch/b/n/10 157
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 514
+ \T1/bch/m/n/10 157
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 515
+ \T1/bch/m/n/10 157
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 516
+ \T1/bch/m/n/10 158
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 517
+ \T1/bch/m/n/10 158
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 518
+ \T1/bch/m/n/10 158
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 519
+ \T1/bch/m/n/10 158
+ []
+
+
+Overfull \hbox (1.92996pt too wide) detected at line 520
+ \T1/bch/b/n/10 159
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 521
+ \T1/bch/m/n/10 159
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 522
+ \T1/bch/m/n/10 159
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 523
+ \T1/bch/m/n/10 160
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 524
+ \T1/bch/m/n/10 160
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 525
+ \T1/bch/m/n/10 160
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 526
+ \T1/bch/m/n/10 160
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 527
+ \T1/bch/m/n/10 161
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 528
+ \T1/bch/m/n/10 162
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 529
+ \T1/bch/m/n/10 162
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 530
+ \T1/bch/m/n/10 162
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 531
+ \T1/bch/m/n/10 162
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 532
+ \T1/bch/m/n/10 162
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 533
+ \T1/bch/m/n/10 169
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 534
+ \T1/bch/m/n/10 170
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 535
+ \T1/bch/m/n/10 170
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 536
+ \T1/bch/m/n/10 170
+ []
+
+
+Overfull \hbox (1.92996pt too wide) detected at line 537
+ \T1/bch/b/n/10 171
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 538
+ \T1/bch/m/n/10 171
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 539
+ \T1/bch/m/n/10 171
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 540
+ \T1/bch/m/n/10 171
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 541
+ \T1/bch/m/n/10 171
+ []
+
+[12]
+Overfull \hbox (1.17996pt too wide) detected at line 542
+ \T1/bch/m/n/10 172
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 543
+ \T1/bch/m/n/10 172
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 544
+ \T1/bch/m/n/10 172
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 545
+ \T1/bch/m/n/10 172
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 546
+ \T1/bch/m/n/10 172
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 547
+ \T1/bch/m/n/10 173
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 548
+ \T1/bch/m/n/10 173
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 549
+ \T1/bch/m/n/10 173
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 550
+ \T1/bch/m/n/10 173
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 551
+ \T1/bch/m/n/10 174
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 552
+ \T1/bch/m/n/10 174
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 553
+ \T1/bch/m/n/10 174
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 554
+ \T1/bch/m/n/10 174
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 555
+ \T1/bch/m/n/10 174
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 556
+ \T1/bch/m/n/10 175
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 557
+ \T1/bch/m/n/10 175
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 558
+ \T1/bch/m/n/10 175
+ []
+
+
+Overfull \hbox (1.92996pt too wide) detected at line 559
+ \T1/bch/b/n/10 177
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 560
+ \T1/bch/m/n/10 177
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 561
+ \T1/bch/m/n/10 177
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 562
+ \T1/bch/m/n/10 177
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 563
+ \T1/bch/m/n/10 177
+ []
+
+
+Overfull \hbox (1.92996pt too wide) detected at line 564
+ \T1/bch/b/n/10 179
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 565
+ \T1/bch/m/n/10 179
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 566
+ \T1/bch/m/n/10 179
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 567
+ \T1/bch/m/n/10 179
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 568
+ \T1/bch/m/n/10 179
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 569
+ \T1/bch/m/n/10 179
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 570
+ \T1/bch/m/n/10 179
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 571
+ \T1/bch/m/n/10 180
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 572
+ \T1/bch/m/n/10 180
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 573
+ \T1/bch/m/n/10 180
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 574
+ \T1/bch/m/n/10 180
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 575
+ \T1/bch/m/n/10 180
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 576
+ \T1/bch/m/n/10 181
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 577
+ \T1/bch/m/n/10 181
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 578
+ \T1/bch/m/n/10 181
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 579
+ \T1/bch/m/n/10 181
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 580
+ \T1/bch/m/n/10 181
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 581
+ \T1/bch/m/n/10 182
+ []
+
+
+Overfull \hbox (1.92996pt too wide) detected at line 582
+ \T1/bch/b/n/10 183
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 583
+ \T1/bch/m/n/10 183
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 584
+ \T1/bch/m/n/10 183
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 585
+ \T1/bch/m/n/10 183
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 586
+ \T1/bch/m/n/10 184
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 587
+ \T1/bch/m/n/10 184
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 588
+ \T1/bch/m/n/10 184
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 589
+ \T1/bch/m/n/10 184
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 590
+ \T1/bch/m/n/10 185
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 591
+ \T1/bch/m/n/10 185
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 592
+ \T1/bch/m/n/10 185
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 593
+ \T1/bch/m/n/10 185
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 594
+ \T1/bch/m/n/10 185
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 595
+ \T1/bch/m/n/10 186
+ []
+
+
+Overfull \hbox (1.92996pt too wide) detected at line 596
+ \T1/bch/b/n/10 187
+ []
+
+[13]
+Overfull \hbox (1.17996pt too wide) detected at line 597
+ \T1/bch/m/n/10 188
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 598
+ \T1/bch/m/n/10 188
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 599
+ \T1/bch/m/n/10 189
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 600
+ \T1/bch/m/n/10 189
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 601
+ \T1/bch/m/n/10 189
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 602
+ \T1/bch/m/n/10 190
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 603
+ \T1/bch/m/n/10 190
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 604
+ \T1/bch/m/n/10 190
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 605
+ \T1/bch/m/n/10 191
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 606
+ \T1/bch/m/n/10 191
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 607
+ \T1/bch/m/n/10 191
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 608
+ \T1/bch/m/n/10 192
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 609
+ \T1/bch/m/n/10 193
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 610
+ \T1/bch/m/n/10 193
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 611
+ \T1/bch/m/n/10 193
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 612
+ \T1/bch/m/n/10 194
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 613
+ \T1/bch/m/n/10 194
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 614
+ \T1/bch/m/n/10 194
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 615
+ \T1/bch/m/n/10 195
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 616
+ \T1/bch/m/n/10 195
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 617
+ \T1/bch/m/n/10 195
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 618
+ \T1/bch/m/n/10 195
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 619
+ \T1/bch/m/n/10 196
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 620
+ \T1/bch/m/n/10 196
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 621
+ \T1/bch/m/n/10 196
+ []
+
+
+Overfull \hbox (1.92996pt too wide) detected at line 622
+ \T1/bch/b/n/10 197
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 623
+ \T1/bch/m/n/10 197
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 624
+ \T1/bch/m/n/10 198
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 625
+ \T1/bch/m/n/10 198
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 626
+ \T1/bch/m/n/10 198
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 627
+ \T1/bch/m/n/10 198
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 628
+ \T1/bch/m/n/10 198
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 629
+ \T1/bch/m/n/10 198
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 630
+ \T1/bch/m/n/10 199
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 631
+ \T1/bch/m/n/10 199
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 632
+ \T1/bch/m/n/10 199
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 633
+ \T1/bch/m/n/10 200
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 634
+ \T1/bch/m/n/10 200
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 635
+ \T1/bch/m/n/10 200
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 636
+ \T1/bch/m/n/10 200
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 637
+ \T1/bch/m/n/10 200
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 638
+ \T1/bch/m/n/10 200
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 639
+ \T1/bch/m/n/10 201
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 640
+ \T1/bch/m/n/10 201
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 641
+ \T1/bch/m/n/10 201
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 642
+ \T1/bch/m/n/10 201
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 643
+ \T1/bch/m/n/10 201
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 644
+ \T1/bch/m/n/10 201
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 645
+ \T1/bch/m/n/10 202
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 646
+ \T1/bch/m/n/10 202
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 647
+ \T1/bch/m/n/10 202
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 648
+ \T1/bch/m/n/10 202
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 649
+ \T1/bch/m/n/10 203
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 650
+ \T1/bch/m/n/10 203
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 651
+ \T1/bch/m/n/10 203
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 652
+ \T1/bch/m/n/10 203
+ []
+
+[14]
+Overfull \hbox (1.17996pt too wide) detected at line 653
+ \T1/bch/m/n/10 203
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 654
+ \T1/bch/m/n/10 203
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 655
+ \T1/bch/m/n/10 204
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 656
+ \T1/bch/m/n/10 204
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 657
+ \T1/bch/m/n/10 204
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 658
+ \T1/bch/m/n/10 204
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 659
+ \T1/bch/m/n/10 204
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 660
+ \T1/bch/m/n/10 204
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 661
+ \T1/bch/m/n/10 205
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 662
+ \T1/bch/m/n/10 205
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 663
+ \T1/bch/m/n/10 205
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 664
+ \T1/bch/m/n/10 205
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 665
+ \T1/bch/m/n/10 205
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 666
+ \T1/bch/m/n/10 205
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 667
+ \T1/bch/m/n/10 206
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 668
+ \T1/bch/m/n/10 206
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 669
+ \T1/bch/m/n/10 206
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 670
+ \T1/bch/m/n/10 206
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 671
+ \T1/bch/m/n/10 206
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 672
+ \T1/bch/m/n/10 206
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 673
+ \T1/bch/m/n/10 207
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 674
+ \T1/bch/m/n/10 207
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 675
+ \T1/bch/m/n/10 207
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 676
+ \T1/bch/m/n/10 207
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 677
+ \T1/bch/m/n/10 207
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 678
+ \T1/bch/m/n/10 207
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 679
+ \T1/bch/m/n/10 208
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 680
+ \T1/bch/m/n/10 208
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 681
+ \T1/bch/m/n/10 208
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 682
+ \T1/bch/m/n/10 208
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 683
+ \T1/bch/m/n/10 208
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 684
+ \T1/bch/m/n/10 209
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 685
+ \T1/bch/m/n/10 209
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 686
+ \T1/bch/m/n/10 209
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 687
+ \T1/bch/m/n/10 209
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 688
+ \T1/bch/m/n/10 209
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 689
+ \T1/bch/m/n/10 210
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 690
+ \T1/bch/m/n/10 210
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 691
+ \T1/bch/m/n/10 210
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 692
+ \T1/bch/m/n/10 210
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 693
+ \T1/bch/m/n/10 210
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 694
+ \T1/bch/m/n/10 210
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 695
+ \T1/bch/m/n/10 211
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 696
+ \T1/bch/m/n/10 211
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 697
+ \T1/bch/m/n/10 211
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 698
+ \T1/bch/m/n/10 211
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 699
+ \T1/bch/m/n/10 211
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 700
+ \T1/bch/m/n/10 211
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 701
+ \T1/bch/m/n/10 211
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 702
+ \T1/bch/m/n/10 212
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 703
+ \T1/bch/m/n/10 212
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 704
+ \T1/bch/m/n/10 212
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 705
+ \T1/bch/m/n/10 212
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 706
+ \T1/bch/m/n/10 212
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 707
+ \T1/bch/m/n/10 212
+ []
+
+
+Overfull \hbox (1.92996pt too wide) detected at line 708
+ \T1/bch/b/n/10 213
+ []
+
+[15]
+Overfull \hbox (1.17996pt too wide) detected at line 709
+ \T1/bch/m/n/10 213
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 710
+ \T1/bch/m/n/10 213
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 711
+ \T1/bch/m/n/10 213
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 712
+ \T1/bch/m/n/10 213
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 713
+ \T1/bch/m/n/10 213
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 714
+ \T1/bch/m/n/10 214
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 715
+ \T1/bch/m/n/10 214
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 716
+ \T1/bch/m/n/10 214
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 717
+ \T1/bch/m/n/10 214
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 718
+ \T1/bch/m/n/10 214
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 719
+ \T1/bch/m/n/10 214
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 720
+ \T1/bch/m/n/10 215
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 721
+ \T1/bch/m/n/10 215
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 722
+ \T1/bch/m/n/10 215
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 723
+ \T1/bch/m/n/10 215
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 724
+ \T1/bch/m/n/10 216
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 725
+ \T1/bch/m/n/10 216
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 726
+ \T1/bch/m/n/10 216
+ []
+
+
+Overfull \hbox (1.92996pt too wide) detected at line 727
+ \T1/bch/b/n/10 217
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 728
+ \T1/bch/m/n/10 217
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 729
+ \T1/bch/m/n/10 217
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 730
+ \T1/bch/m/n/10 217
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 731
+ \T1/bch/m/n/10 217
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 732
+ \T1/bch/m/n/10 217
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 733
+ \T1/bch/m/n/10 218
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 734
+ \T1/bch/m/n/10 218
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 735
+ \T1/bch/m/n/10 218
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 736
+ \T1/bch/m/n/10 218
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 737
+ \T1/bch/m/n/10 218
+ []
+
+
+Overfull \hbox (1.92996pt too wide) detected at line 738
+ \T1/bch/b/n/10 219
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 739
+ \T1/bch/m/n/10 219
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 740
+ \T1/bch/m/n/10 219
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 741
+ \T1/bch/m/n/10 220
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 742
+ \T1/bch/m/n/10 220
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 743
+ \T1/bch/m/n/10 221
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 744
+ \T1/bch/m/n/10 221
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 745
+ \T1/bch/m/n/10 221
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 746
+ \T1/bch/m/n/10 221
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 747
+ \T1/bch/m/n/10 221
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 748
+ \T1/bch/m/n/10 222
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 749
+ \T1/bch/m/n/10 222
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 750
+ \T1/bch/m/n/10 222
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 751
+ \T1/bch/m/n/10 223
+ []
+
+
+Overfull \hbox (1.92996pt too wide) detected at line 752
+ \T1/bch/b/n/10 225
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 753
+ \T1/bch/m/n/10 226
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 754
+ \T1/bch/m/n/10 226
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 755
+ \T1/bch/m/n/10 226
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 756
+ \T1/bch/m/n/10 226
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 757
+ \T1/bch/m/n/10 227
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 758
+ \T1/bch/m/n/10 227
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 759
+ \T1/bch/m/n/10 227
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 760
+ \T1/bch/m/n/10 227
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 761
+ \T1/bch/m/n/10 227
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 762
+ \T1/bch/m/n/10 227
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 763
+ \T1/bch/m/n/10 228
+ []
+
+[16]
+Overfull \hbox (1.17996pt too wide) detected at line 764
+ \T1/bch/m/n/10 228
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 765
+ \T1/bch/m/n/10 228
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 766
+ \T1/bch/m/n/10 228
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 767
+ \T1/bch/m/n/10 228
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 768
+ \T1/bch/m/n/10 228
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 769
+ \T1/bch/m/n/10 229
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 770
+ \T1/bch/m/n/10 229
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 771
+ \T1/bch/m/n/10 229
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 772
+ \T1/bch/m/n/10 229
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 773
+ \T1/bch/m/n/10 229
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 774
+ \T1/bch/m/n/10 229
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 775
+ \T1/bch/m/n/10 229
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 776
+ \T1/bch/m/n/10 229
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 777
+ \T1/bch/m/n/10 230
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 778
+ \T1/bch/m/n/10 230
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 779
+ \T1/bch/m/n/10 230
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 780
+ \T1/bch/m/n/10 230
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 781
+ \T1/bch/m/n/10 230
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 782
+ \T1/bch/m/n/10 231
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 783
+ \T1/bch/m/n/10 231
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 784
+ \T1/bch/m/n/10 231
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 785
+ \T1/bch/m/n/10 231
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 786
+ \T1/bch/m/n/10 231
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 787
+ \T1/bch/m/n/10 231
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 788
+ \T1/bch/m/n/10 231
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 789
+ \T1/bch/m/n/10 232
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 790
+ \T1/bch/m/n/10 232
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 791
+ \T1/bch/m/n/10 232
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 792
+ \T1/bch/m/n/10 232
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 793
+ \T1/bch/m/n/10 232
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 794
+ \T1/bch/m/n/10 233
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 795
+ \T1/bch/m/n/10 233
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 796
+ \T1/bch/m/n/10 233
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 797
+ \T1/bch/m/n/10 233
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 798
+ \T1/bch/m/n/10 233
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 799
+ \T1/bch/m/n/10 233
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 800
+ \T1/bch/m/n/10 233
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 801
+ \T1/bch/m/n/10 233
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 802
+ \T1/bch/m/n/10 234
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 803
+ \T1/bch/m/n/10 234
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 804
+ \T1/bch/m/n/10 234
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 805
+ \T1/bch/m/n/10 234
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 806
+ \T1/bch/m/n/10 234
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 807
+ \T1/bch/m/n/10 234
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 808
+ \T1/bch/m/n/10 234
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 809
+ \T1/bch/m/n/10 234
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 810
+ \T1/bch/m/n/10 235
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 811
+ \T1/bch/m/n/10 235
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 812
+ \T1/bch/m/n/10 235
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 813
+ \T1/bch/m/n/10 235
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 814
+ \T1/bch/m/n/10 235
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 815
+ \T1/bch/m/n/10 235
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 816
+ \T1/bch/m/n/10 235
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 817
+ \T1/bch/m/n/10 236
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 818
+ \T1/bch/m/n/10 236
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 819
+ \T1/bch/m/n/10 236
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 820
+ \T1/bch/m/n/10 236
+ []
+
+[17]
+Overfull \hbox (1.17996pt too wide) detected at line 821
+ \T1/bch/m/n/10 236
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 822
+ \T1/bch/m/n/10 236
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 823
+ \T1/bch/m/n/10 237
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 824
+ \T1/bch/m/n/10 237
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 825
+ \T1/bch/m/n/10 237
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 826
+ \T1/bch/m/n/10 237
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 827
+ \T1/bch/m/n/10 237
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 828
+ \T1/bch/m/n/10 237
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 829
+ \T1/bch/m/n/10 238
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 830
+ \T1/bch/m/n/10 238
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 831
+ \T1/bch/m/n/10 238
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 832
+ \T1/bch/m/n/10 238
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 833
+ \T1/bch/m/n/10 238
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 834
+ \T1/bch/m/n/10 238
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 835
+ \T1/bch/m/n/10 239
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 836
+ \T1/bch/m/n/10 239
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 837
+ \T1/bch/m/n/10 239
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 838
+ \T1/bch/m/n/10 239
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 839
+ \T1/bch/m/n/10 239
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 840
+ \T1/bch/m/n/10 239
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 841
+ \T1/bch/m/n/10 239
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 842
+ \T1/bch/m/n/10 240
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 843
+ \T1/bch/m/n/10 240
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 844
+ \T1/bch/m/n/10 240
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 845
+ \T1/bch/m/n/10 240
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 846
+ \T1/bch/m/n/10 240
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 847
+ \T1/bch/m/n/10 240
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 848
+ \T1/bch/m/n/10 240
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 849
+ \T1/bch/m/n/10 241
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 850
+ \T1/bch/m/n/10 241
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 851
+ \T1/bch/m/n/10 241
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 852
+ \T1/bch/m/n/10 241
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 853
+ \T1/bch/m/n/10 242
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 854
+ \T1/bch/m/n/10 242
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 855
+ \T1/bch/m/n/10 242
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 856
+ \T1/bch/m/n/10 242
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 857
+ \T1/bch/m/n/10 242
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 858
+ \T1/bch/m/n/10 242
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 859
+ \T1/bch/m/n/10 242
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 860
+ \T1/bch/m/n/10 242
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 861
+ \T1/bch/m/n/10 243
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 862
+ \T1/bch/m/n/10 243
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 863
+ \T1/bch/m/n/10 243
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 864
+ \T1/bch/m/n/10 243
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 865
+ \T1/bch/m/n/10 243
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 866
+ \T1/bch/m/n/10 243
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 867
+ \T1/bch/m/n/10 243
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 868
+ \T1/bch/m/n/10 244
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 869
+ \T1/bch/m/n/10 244
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 870
+ \T1/bch/m/n/10 244
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 871
+ \T1/bch/m/n/10 244
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 872
+ \T1/bch/m/n/10 244
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 873
+ \T1/bch/m/n/10 244
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 874
+ \T1/bch/m/n/10 244
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 875
+ \T1/bch/m/n/10 245
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 876
+ \T1/bch/m/n/10 245
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 877
+ \T1/bch/m/n/10 245
+ []
+
+[18]
+Overfull \hbox (1.17996pt too wide) detected at line 878
+ \T1/bch/m/n/10 245
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 879
+ \T1/bch/m/n/10 245
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 880
+ \T1/bch/m/n/10 245
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 881
+ \T1/bch/m/n/10 246
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 882
+ \T1/bch/m/n/10 246
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 883
+ \T1/bch/m/n/10 246
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 884
+ \T1/bch/m/n/10 246
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 885
+ \T1/bch/m/n/10 246
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 886
+ \T1/bch/m/n/10 246
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 887
+ \T1/bch/m/n/10 247
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 888
+ \T1/bch/m/n/10 247
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 889
+ \T1/bch/m/n/10 247
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 890
+ \T1/bch/m/n/10 247
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 891
+ \T1/bch/m/n/10 248
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 892
+ \T1/bch/m/n/10 248
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 893
+ \T1/bch/m/n/10 248
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 894
+ \T1/bch/m/n/10 249
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 895
+ \T1/bch/m/n/10 249
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 896
+ \T1/bch/m/n/10 249
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 897
+ \T1/bch/m/n/10 249
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 898
+ \T1/bch/m/n/10 249
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 899
+ \T1/bch/m/n/10 250
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 900
+ \T1/bch/m/n/10 250
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 901
+ \T1/bch/m/n/10 250
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 902
+ \T1/bch/m/n/10 251
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 903
+ \T1/bch/m/n/10 251
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 904
+ \T1/bch/m/n/10 251
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 905
+ \T1/bch/m/n/10 251
+ []
+
+
+Overfull \hbox (1.92996pt too wide) detected at line 906
+ \T1/bch/b/n/10 253
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 907
+ \T1/bch/m/n/10 253
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 908
+ \T1/bch/m/n/10 253
+ []
+
+
+Overfull \hbox (1.92996pt too wide) detected at line 909
+ \T1/bch/b/n/10 255
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 910
+ \T1/bch/m/n/10 255
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 911
+ \T1/bch/m/n/10 255
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 912
+ \T1/bch/m/n/10 255
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 913
+ \T1/bch/m/n/10 255
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 914
+ \T1/bch/m/n/10 256
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 915
+ \T1/bch/m/n/10 256
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 916
+ \T1/bch/m/n/10 256
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 917
+ \T1/bch/m/n/10 256
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 918
+ \T1/bch/m/n/10 257
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 919
+ \T1/bch/m/n/10 257
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 920
+ \T1/bch/m/n/10 257
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 921
+ \T1/bch/m/n/10 258
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 922
+ \T1/bch/m/n/10 258
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 923
+ \T1/bch/m/n/10 258
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 924
+ \T1/bch/m/n/10 258
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 925
+ \T1/bch/m/n/10 258
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 926
+ \T1/bch/m/n/10 258
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 927
+ \T1/bch/m/n/10 259
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 928
+ \T1/bch/m/n/10 259
+ []
+
+
+Overfull \hbox (1.92996pt too wide) detected at line 929
+ \T1/bch/b/n/10 261
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 930
+ \T1/bch/m/n/10 261
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 931
+ \T1/bch/m/n/10 261
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 932
+ \T1/bch/m/n/10 261
+ []
+
+[19]
+Overfull \hbox (1.17996pt too wide) detected at line 933
+ \T1/bch/m/n/10 262
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 934
+ \T1/bch/m/n/10 262
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 935
+ \T1/bch/m/n/10 262
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 936
+ \T1/bch/m/n/10 262
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 937
+ \T1/bch/m/n/10 262
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 938
+ \T1/bch/m/n/10 263
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 939
+ \T1/bch/m/n/10 263
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 940
+ \T1/bch/m/n/10 263
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 941
+ \T1/bch/m/n/10 263
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 942
+ \T1/bch/m/n/10 263
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 943
+ \T1/bch/m/n/10 263
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 944
+ \T1/bch/m/n/10 264
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 945
+ \T1/bch/m/n/10 264
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 946
+ \T1/bch/m/n/10 264
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 947
+ \T1/bch/m/n/10 264
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 948
+ \T1/bch/m/n/10 264
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 949
+ \T1/bch/m/n/10 265
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 950
+ \T1/bch/m/n/10 265
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 951
+ \T1/bch/m/n/10 265
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 952
+ \T1/bch/m/n/10 265
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 953
+ \T1/bch/m/n/10 265
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 954
+ \T1/bch/m/n/10 266
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 955
+ \T1/bch/m/n/10 266
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 956
+ \T1/bch/m/n/10 266
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 957
+ \T1/bch/m/n/10 266
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 958
+ \T1/bch/m/n/10 266
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 959
+ \T1/bch/m/n/10 267
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 960
+ \T1/bch/m/n/10 268
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 961
+ \T1/bch/m/n/10 268
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 962
+ \T1/bch/m/n/10 269
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 963
+ \T1/bch/m/n/10 269
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 964
+ \T1/bch/m/n/10 269
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 965
+ \T1/bch/m/n/10 270
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 966
+ \T1/bch/m/n/10 270
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 967
+ \T1/bch/m/n/10 270
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 968
+ \T1/bch/m/n/10 271
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 969
+ \T1/bch/m/n/10 271
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 970
+ \T1/bch/m/n/10 271
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 971
+ \T1/bch/m/n/10 272
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 972
+ \T1/bch/m/n/10 272
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 973
+ \T1/bch/m/n/10 272
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 974
+ \T1/bch/m/n/10 272
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 975
+ \T1/bch/m/n/10 272
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 976
+ \T1/bch/m/n/10 273
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 977
+ \T1/bch/m/n/10 273
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 978
+ \T1/bch/m/n/10 273
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 979
+ \T1/bch/m/n/10 273
+ []
+
+
+Overfull \hbox (1.92996pt too wide) detected at line 980
+ \T1/bch/b/n/10 275
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 981
+ \T1/bch/m/n/10 275
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 982
+ \T1/bch/m/n/10 275
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 983
+ \T1/bch/m/n/10 275
+ []
+
+
+Overfull \hbox (1.92996pt too wide) detected at line 984
+ \T1/bch/b/n/10 277
+ []
+
+
+Overfull \hbox (1.92996pt too wide) detected at line 985
+ \T1/bch/b/n/10 279
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 986
+ \T1/bch/m/n/10 279
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 987
+ \T1/bch/m/n/10 279
+ []
+
+[20]
+Overfull \hbox (1.92996pt too wide) detected at line 988
+ \T1/bch/b/n/10 281
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 989
+ \T1/bch/m/n/10 281
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 990
+ \T1/bch/m/n/10 281
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 991
+ \T1/bch/m/n/10 281
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 992
+ \T1/bch/m/n/10 281
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 993
+ \T1/bch/m/n/10 282
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 994
+ \T1/bch/m/n/10 282
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 995
+ \T1/bch/m/n/10 282
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 996
+ \T1/bch/m/n/10 283
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 997
+ \T1/bch/m/n/10 283
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 998
+ \T1/bch/m/n/10 283
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 999
+ \T1/bch/m/n/10 284
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1000
+ \T1/bch/m/n/10 284
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1001
+ \T1/bch/m/n/10 284
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1002
+ \T1/bch/m/n/10 284
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1003
+ \T1/bch/m/n/10 285
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1004
+ \T1/bch/m/n/10 285
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1005
+ \T1/bch/m/n/10 286
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1006
+ \T1/bch/m/n/10 286
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1007
+ \T1/bch/m/n/10 286
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1008
+ \T1/bch/m/n/10 287
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1009
+ \T1/bch/m/n/10 287
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1010
+ \T1/bch/m/n/10 287
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1011
+ \T1/bch/m/n/10 287
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1012
+ \T1/bch/m/n/10 288
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1013
+ \T1/bch/m/n/10 288
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1014
+ \T1/bch/m/n/10 288
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1015
+ \T1/bch/m/n/10 288
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1016
+ \T1/bch/m/n/10 288
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1017
+ \T1/bch/m/n/10 288
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1018
+ \T1/bch/m/n/10 289
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1019
+ \T1/bch/m/n/10 289
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1020
+ \T1/bch/m/n/10 289
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1021
+ \T1/bch/m/n/10 289
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1022
+ \T1/bch/m/n/10 289
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1023
+ \T1/bch/m/n/10 290
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1024
+ \T1/bch/m/n/10 290
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1025
+ \T1/bch/m/n/10 290
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1026
+ \T1/bch/m/n/10 290
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1027
+ \T1/bch/m/n/10 290
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1028
+ \T1/bch/m/n/10 291
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1029
+ \T1/bch/m/n/10 291
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1030
+ \T1/bch/m/n/10 291
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1031
+ \T1/bch/m/n/10 291
+ []
+
+
+Overfull \hbox (1.92996pt too wide) detected at line 1032
+ \T1/bch/b/n/10 293
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1033
+ \T1/bch/m/n/10 293
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1034
+ \T1/bch/m/n/10 293
+ []
+
+
+Overfull \hbox (1.92996pt too wide) detected at line 1035
+ \T1/bch/b/n/10 295
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1036
+ \T1/bch/m/n/10 295
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1037
+ \T1/bch/m/n/10 295
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1038
+ \T1/bch/m/n/10 295
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1039
+ \T1/bch/m/n/10 295
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1040
+ \T1/bch/m/n/10 295
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1041
+ \T1/bch/m/n/10 296
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1042
+ \T1/bch/m/n/10 297
+ []
+
+[21]
+Overfull \hbox (1.17996pt too wide) detected at line 1043
+ \T1/bch/m/n/10 298
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1044
+ \T1/bch/m/n/10 298
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1045
+ \T1/bch/m/n/10 298
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1046
+ \T1/bch/m/n/10 298
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1047
+ \T1/bch/m/n/10 299
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1048
+ \T1/bch/m/n/10 299
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1049
+ \T1/bch/m/n/10 299
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1050
+ \T1/bch/m/n/10 300
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1051
+ \T1/bch/m/n/10 300
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1052
+ \T1/bch/m/n/10 301
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1053
+ \T1/bch/m/n/10 301
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1054
+ \T1/bch/m/n/10 301
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1055
+ \T1/bch/m/n/10 302
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1056
+ \T1/bch/m/n/10 302
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1057
+ \T1/bch/m/n/10 302
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1058
+ \T1/bch/m/n/10 302
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1059
+ \T1/bch/m/n/10 303
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1060
+ \T1/bch/m/n/10 303
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1061
+ \T1/bch/m/n/10 303
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1062
+ \T1/bch/m/n/10 304
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1063
+ \T1/bch/m/n/10 304
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1064
+ \T1/bch/m/n/10 304
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1065
+ \T1/bch/m/n/10 305
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1066
+ \T1/bch/m/n/10 305
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1067
+ \T1/bch/m/n/10 306
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1068
+ \T1/bch/m/n/10 306
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1069
+ \T1/bch/m/n/10 306
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1070
+ \T1/bch/m/n/10 306
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1071
+ \T1/bch/m/n/10 307
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1072
+ \T1/bch/m/n/10 307
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1073
+ \T1/bch/m/n/10 307
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1074
+ \T1/bch/m/n/10 307
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1075
+ \T1/bch/m/n/10 308
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1076
+ \T1/bch/m/n/10 308
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1077
+ \T1/bch/m/n/10 308
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1078
+ \T1/bch/m/n/10 308
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1079
+ \T1/bch/m/n/10 308
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1080
+ \T1/bch/m/n/10 309
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1081
+ \T1/bch/m/n/10 309
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1082
+ \T1/bch/m/n/10 309
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1083
+ \T1/bch/m/n/10 309
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1084
+ \T1/bch/m/n/10 309
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1085
+ \T1/bch/m/n/10 309
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1086
+ \T1/bch/m/n/10 310
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1087
+ \T1/bch/m/n/10 310
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1088
+ \T1/bch/m/n/10 311
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1089
+ \T1/bch/m/n/10 311
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1090
+ \T1/bch/m/n/10 312
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1091
+ \T1/bch/m/n/10 312
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1092
+ \T1/bch/m/n/10 312
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1093
+ \T1/bch/m/n/10 312
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1094
+ \T1/bch/m/n/10 313
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1095
+ \T1/bch/m/n/10 313
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1096
+ \T1/bch/m/n/10 314
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1097
+ \T1/bch/m/n/10 315
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1098
+ \T1/bch/m/n/10 315
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1099
+ \T1/bch/m/n/10 315
+ []
+
+[22]
+Overfull \hbox (1.17996pt too wide) detected at line 1100
+ \T1/bch/m/n/10 315
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1101
+ \T1/bch/m/n/10 316
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1102
+ \T1/bch/m/n/10 316
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1103
+ \T1/bch/m/n/10 316
+ []
+
+
+Overfull \hbox (1.92996pt too wide) detected at line 1104
+ \T1/bch/b/n/10 317
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1105
+ \T1/bch/m/n/10 317
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1106
+ \T1/bch/m/n/10 317
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1107
+ \T1/bch/m/n/10 318
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1108
+ \T1/bch/m/n/10 318
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1109
+ \T1/bch/m/n/10 318
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1110
+ \T1/bch/m/n/10 320
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1111
+ \T1/bch/m/n/10 320
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1112
+ \T1/bch/m/n/10 320
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1113
+ \T1/bch/m/n/10 320
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1114
+ \T1/bch/m/n/10 321
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1115
+ \T1/bch/m/n/10 321
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1116
+ \T1/bch/m/n/10 321
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1117
+ \T1/bch/m/n/10 322
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1118
+ \T1/bch/m/n/10 322
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1119
+ \T1/bch/m/n/10 322
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1120
+ \T1/bch/m/n/10 322
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1121
+ \T1/bch/m/n/10 323
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1122
+ \T1/bch/m/n/10 323
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1123
+ \T1/bch/m/n/10 323
+ []
+
+
+Overfull \hbox (1.92996pt too wide) detected at line 1124
+ \T1/bch/b/n/10 325
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1125
+ \T1/bch/m/n/10 325
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1126
+ \T1/bch/m/n/10 325
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1127
+ \T1/bch/m/n/10 326
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1128
+ \T1/bch/m/n/10 326
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1129
+ \T1/bch/m/n/10 326
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1130
+ \T1/bch/m/n/10 326
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1131
+ \T1/bch/m/n/10 326
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1132
+ \T1/bch/m/n/10 326
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1133
+ \T1/bch/m/n/10 326
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1134
+ \T1/bch/m/n/10 327
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1135
+ \T1/bch/m/n/10 327
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1136
+ \T1/bch/m/n/10 327
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1137
+ \T1/bch/m/n/10 327
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1138
+ \T1/bch/m/n/10 327
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1139
+ \T1/bch/m/n/10 327
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1140
+ \T1/bch/m/n/10 327
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1141
+ \T1/bch/m/n/10 328
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1142
+ \T1/bch/m/n/10 328
+ []
+
+
+Overfull \hbox (1.17996pt too wide) detected at line 1143
+ \T1/bch/m/n/10 328
+ []
+
+) [23] [24
+
+]
+LaTeX Font Info:    Try loading font information for T1+zi4 on input line 159.
+ (c:/texlive/2015/texmf-dist/tex/latex/inconsolata/t1zi4.fd
+File: t1zi4.fd 2014/06/22 T1/zi4 (Inconsolata)
+)
+[1
+
+] [2] [3] [4]
+
+LaTeX Font Warning: Font shape `T1/zi4/m/it' undefined
+(Font)              using `T1/zi4/m/n' instead on input line 433.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 460.
+
+
+[5
+
+]
+
+Package hyperref Warning: Suppressing link with empty target on input line 467.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 479.
+
+
+[6] [7] [8] [9] [10]
+
+Package hyperref Warning: Suppressing link with empty target on input line 920.
+
+
+[11
+
+] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1927
+.
+
+[22] [23] [24]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2191
+.
+
+[25
+
+] [26] (c:/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-0.def
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+) [27]
+[28] [29] [30] [31] [32]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2814
+.
+
+LaTeX Font Info:    Try loading font information for TS1+zi4 on input line 2861
+.
+(c:/texlive/2015/texmf-dist/tex/latex/inconsolata/ts1zi4.fd
+File: ts1zi4.fd 2014/06/22 Fontinst v1.933 font definitions for TS1/zi4.
+)
+
+Package hyperref Warning: Suppressing link with empty target on input line 2882
+.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2895
+.
+
+[33]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2911
+.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2922
+.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2966
+.
+
+[34] [35] [36] [37] [38] [39] [40]
+
+Package hyperref Warning: Suppressing link with empty target on input line 3518
+.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 3526
+.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 3569
+.
+
+[41
+
+] [42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52
+
+]
+
+Package hyperref Warning: Suppressing link with empty target on input line 4523
+.
+
+[53]
+
+LaTeX Font Warning: Font shape `TS1/zi4/m/it' undefined
+(Font)              using `TS1/zi4/m/n' instead
+(Font)              for symbol `textasciigrave' on input line 4615.
+
+[54] [55] [56] [57] [58] [59] [60] [61] [62]
+
+Package hyperref Warning: Suppressing link with empty target on input line 5306
+.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 5316
+.
+
+[63
+
+] [64] [65] [66]
+
+Package hyperref Warning: Suppressing link with empty target on input line 5764
+.
+
+[67]
+
+Package hyperref Warning: Suppressing link with empty target on input line 5874
+.
+
+[68] [69] [70
+
+]
+
+Package hyperref Warning: Suppressing link with empty target on input line 5976
+.
+
+[71] [72]
+
+Package hyperref Warning: Suppressing link with empty target on input line 6064
+.
+
+[73
+
+] [74]
+
+Package hyperref Warning: Suppressing link with empty target on input line 6321
+.
+
+[75]
+
+Package hyperref Warning: Suppressing link with empty target on input line 6369
+.
+
+[76] [77] [78] [79]
+
+Package hyperref Warning: Suppressing link with empty target on input line 6828
+.
+
+[80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90] [91] [92] [93] [94]
+[95] [96] [97] [98] [99] [100] [101] [102] [103] [104]
+
+Package hyperref Warning: Suppressing link with empty target on input line 9356
+.
+
+[105]
+
+Package hyperref Warning: Suppressing link with empty target on input line 9401
+.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 9433
+.
+
+[106] [107] [108
+
+]
+
+Package hyperref Warning: Suppressing link with empty target on input line 9562
+.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 9581
+.
+
+[109]
+
+Package hyperref Warning: Suppressing link with empty target on input line 9650
+.
+
+(c:/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-3.def
+File: uni-3.def 2013/05/13 UCS: Unicode data U+0300..U+03FF
+) [110] [111]
+
+Package hyperref Warning: Suppressing link with empty target on input line 9875
+.
+
+[112] [113] [114] [115] [116] [117] [118] [119] [120] [121] [122
+
+]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1079
+1.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1080
+0.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1082
+1.
+
+[123] [124] [125] [126] [127] [128
+
+]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1122
+1.
+
+[129]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [130]
+[131] [132] [133] [134
+
+]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1156
+3.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1157
+9.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1159
+7.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1161
+0.
+
+[135]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1170
+3.
+
+[136] [137] [138
+
+]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1176
+0.
+
+[139] [140
+
+]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1180
+1.
+
+[141] [142]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1193
+4.
+
+[143
+
+] [144] [145] [146] [147] [148] [149] [150
+
+] [151] [152] [153] [154]
+[155] [156]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1306
+6.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1310
+4.
+
+[157
+
+] [158]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1326
+1.
+
+[159
+
+] [160] [161] [162] [163]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [164]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [165]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [166]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [167]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [168]
+[169] [170]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1409
+2.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1409
+9.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1410
+6.
+
+[171
+
+] [172] [173] [174] [175] [176
+
+]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1453
+1.
+
+[177] [178]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1461
+4.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1462
+1.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1462
+8.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1463
+5.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1464
+2.
+
+[179
+
+] [180] [181] [182]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1490
+2.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1491
+1.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1492
+0.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1495
+2.
+
+[183
+
+]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1497
+1.
+
+[184] [185] [186] [187
+
+]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1529
+4.
+
+[188] [189] [190] [191] [192] [193] [194] [195] [196] [197
+
+]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1618
+6.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1619
+5.
+
+[198] [199] [200] [201] [202] [203] [204] [205] [206] [207] [208] [209]
+[210]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1753
+8.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1755
+1.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1756
+2.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1757
+4.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1759
+2.
+
+[211]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1760
+4.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1762
+1.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1763
+3.
+
+[212]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1766
+1.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1766
+8.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1769
+1.
+
+[213
+
+] [214] [215]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1795
+0.
+
+[216]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1796
+9.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1797
+9.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1798
+9.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1800
+0.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1801
+0.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1802
+1.
+
+[217
+
+]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1803
+6.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1805
+9.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1807
+5.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1808
+9.
+
+[218] [219
+
+] [220] [221] [222] [223] [224
+
+] [225]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1857
+8.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1861
+3.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1863
+1.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1865
+6.
+
+[226]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1866
+7.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1868
+3.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1870
+0.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1871
+0.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1872
+4.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1874
+9.
+
+[227]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1879
+2.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1880
+8.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1883
+0.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1883
+9.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1884
+8.
+
+[228]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1887
+8.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1888
+6.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1889
+5.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1890
+4.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1891
+7.
+
+[229]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1893
+6.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1894
+6.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1895
+8.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1897
+8.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1899
+0.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1900
+8.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1901
+5.
+
+[230]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1902
+5.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1903
+5.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1904
+5.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1905
+9.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1907
+0.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1908
+5.
+
+[231]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1911
+4.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1913
+2.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1916
+7.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1917
+7.
+
+[232]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1918
+7.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1920
+1.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1921
+5.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1922
+8.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1924
+1.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1925
+6.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1927
+1.
+
+[233]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1928
+3.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1929
+3.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1930
+3.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1931
+3.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1932
+3.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1933
+0.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1934
+2.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1935
+7.
+
+[234]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1936
+7.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1937
+9.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1938
+9.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1940
+3.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1941
+3.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1942
+6.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1943
+6.
+
+[235]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1945
+9.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1947
+0.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1948
+0.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1949
+2.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1950
+3.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1951
+7.
+
+[236]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1952
+9.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1954
+3.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1956
+2.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1959
+0.
+
+[237]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1961
+2.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1962
+1.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1963
+7.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1965
+5.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1967
+5.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1968
+7.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1970
+1.
+
+[238]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1971
+7.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1973
+0.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1974
+3.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1975
+3.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1976
+6.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1977
+6.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1978
+6.
+
+[239]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1979
+8.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1981
+2.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1982
+3.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1983
+7.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1984
+7.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1985
+9.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1987
+2.
+
+[240]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1988
+2.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1989
+3.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1996
+0.
+
+[241]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1997
+9.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1999
+1.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2000
+3.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2001
+4.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2002
+1.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2003
+1.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2004
+1.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2004
+8.
+
+[242]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2005
+8.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2007
+1.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2008
+1.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2009
+4.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2010
+4.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2012
+3.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2013
+3.
+
+[243]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2014
+5.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2015
+5.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2016
+7.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2017
+9.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2019
+1.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2020
+1.
+
+[244]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2023
+7.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2025
+0.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2026
+3.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2027
+5.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2029
+0.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2030
+2.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2031
+8.
+
+[245]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2033
+1.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2035
+3.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2037
+4.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2039
+6.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2041
+7.
+
+[246]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2043
+8.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2045
+9.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2048
+2.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2051
+0.
+
+[247]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2054
+0.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2057
+7.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2059
+8.
+
+[248]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2063
+4.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2064
+8.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2069
+7.
+
+[249]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2074
+9.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2077
+0.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2079
+3.
+
+[250]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2080
+8.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2082
+3.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2083
+8.
+
+[251] [252
+
+]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2086
+7.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2090
+5.
+
+[253] [254
+
+]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2092
+4.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2093
+6.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2094
+6.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2097
+0.
+
+[255]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2099
+6.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2102
+0.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2104
+6.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2106
+7.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2108
+7.
+
+[256]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2112
+0.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2113
+2.
+
+[257]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2118
+3.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2120
+4.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2121
+6.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2122
+8.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2124
+0.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2125
+0.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2126
+2.
+
+[258]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2127
+2.
+
+[259] [260
+
+]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2129
+3.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2130
+6.
+
+[261]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2135
+0.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2137
+5.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2138
+6.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2140
+7.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2141
+7.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2143
+6.
+
+[262]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2146
+7.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2147
+8.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2148
+9.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2150
+1.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2151
+4.
+
+[263]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2155
+5.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2156
+8.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2159
+4.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2160
+8.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2162
+0.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2163
+4.
+
+[264]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2166
+3.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2167
+6.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2168
+4.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2170
+8.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2172
+4.
+
+[265]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2175
+1.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2178
+1.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2179
+6.
+
+[266]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2186
+9.
+
+[267]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2195
+1.
+
+[268]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2201
+0.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2202
+7.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2204
+4.
+
+[269]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2209
+1.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2210
+7.
+
+[270]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2218
+5.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2220
+6.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2222
+7.
+
+[271]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2226
+9.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2228
+2.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2228
+9.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2232
+9.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2234
+4.
+
+[272]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2237
+1.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2239
+2.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2240
+0.
+
+[273] [274
+
+]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2243
+2.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2245
+6.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2246
+4.
+
+[275] [276
+
+] [277] [278
+
+]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2251
+6.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2253
+5.
+
+[279] [280
+
+]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2255
+4.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2256
+1.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2256
+8.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2259
+2.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2260
+4.
+
+[281]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2266
+6.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2268
+1.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2268
+8.
+
+[282]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2269
+8.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2270
+5.
+
+[283]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2278
+2.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2281
+5.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2282
+9.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2284
+2.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2286
+0.
+
+[284]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2293
+9.
+
+[285]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2294
+7.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2300
+2.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2301
+7.
+
+[286]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2303
+3.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2305
+3.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2306
+8.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2310
+8.
+
+[287]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2313
+0.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2314
+6.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2315
+8.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2317
+2.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2318
+7.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2320
+1.
+
+[288]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2321
+8.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2323
+3.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2325
+7.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2327
+4.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2329
+2.
+
+[289]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2330
+8.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2332
+8.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2334
+5.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2336
+3.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2337
+7.
+
+[290]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2339
+0.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2341
+9.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2344
+2.
+
+[291] [292
+
+]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2348
+4.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2352
+4.
+
+[293] [294
+
+]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2354
+5.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2355
+3.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2356
+5.
+
+[295] <images/primitives1.png, id=10539, 475.17525pt x 256.5585pt>
+File: images/primitives1.png Graphic file (type png)
+
+<use images/primitives1.png>
+Package pdftex.def Info: images/primitives1.png used on input line 23613.
+(pdftex.def)             Requested size: 449.55322pt x 242.73093pt.
+
+<images/primitives2.png, id=10540, 475.17525pt x 256.5585pt>
+File: images/primitives2.png Graphic file (type png)
+
+<use images/primitives2.png>
+Package pdftex.def Info: images/primitives2.png used on input line 23645.
+(pdftex.def)             Requested size: 449.55322pt x 242.73093pt.
+ [296 <./images/primitives1.png>]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2368
+5.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2370
+8.
+
+[297 <./images/primitives2.png>]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2373
+2.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2375
+1.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2377
+5.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2379
+6.
+
+[298]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2382
+2.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2384
+5.
+
+[299]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2393
+7.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2397
+0.
+
+[300]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2399
+9.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2402
+5.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2404
+7.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2407
+3.
+
+[301]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2409
+5.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2412
+7.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2416
+1.
+
+[302]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2419
+4.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2421
+7.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2425
+3.
+
+[303]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2431
+4.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2436
+5.
+
+[304]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2440
+1.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2443
+8.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2448
+1.
+
+[305]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2452
+7.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2456
+6.
+
+[306]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2459
+2.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2461
+4.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2465
+8.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2467
+1.
+
+[307]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2470
+1.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2471
+4.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2472
+8.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2477
+1.
+
+[308]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2478
+4.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2481
+4.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2482
+7.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2484
+1.
+
+[309]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2490
+2.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2493
+7.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2496
+3.
+
+[310]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2502
+4.
+
+[311]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2506
+5.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2509
+4.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2510
+8.
+
+[312]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2516
+2.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2519
+3.
+
+[313]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2524
+5.
+
+[314]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2533
+3.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2534
+5.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2535
+5.
+
+<images/LINE_JOIN.png, id=10794, 240.19147pt x 70.14441pt>
+File: images/LINE_JOIN.png Graphic file (type png)
+
+<use images/LINE_JOIN.png>
+Package pdftex.def Info: images/LINE_JOIN.png used on input line 25371.
+(pdftex.def)             Requested size: 240.19087pt x 70.14423pt.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2538
+7.
+
+<images/LINE_CAP.png, id=10796, 240.19147pt x 70.14441pt>
+File: images/LINE_CAP.png Graphic file (type png)
+
+<use images/LINE_CAP.png>
+Package pdftex.def Info: images/LINE_CAP.png used on input line 25405.
+(pdftex.def)             Requested size: 240.19087pt x 70.14423pt.
+ [315 <./images/LINE_JOIN.png>]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2542
+3.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2543
+7.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2545
+2.
+
+[316 <./images/LINE_CAP.png>]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2549
+4.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2551
+2.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2554
+8.
+
+[317
+
+] [318] [319] [320] [321] [322] [323] [324
+
+]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2611
+6.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2614
+0.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2616
+8.
+
+[325]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2617
+7.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2618
+7.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2619
+7.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2620
+7.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2621
+7.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2622
+6.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2623
+6.
+
+[326]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2624
+7.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2625
+6.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2626
+5.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2627
+4.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2628
+4.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2629
+8.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2631
+2.
+
+[327]
+
+Package hyperref Warning: Suppressing link with empty target on input line 2634
+2.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 2635
+4.
+
+[328]
+\tf@toc=\write6
+\openout6 = `refman.toc'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 26361.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 26361.
+ (C:/LIBS5303Build/allegro5/build/docs/pdf/refman.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 26361.
+
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 26361
+.
+Package rerunfilecheck Info: File `refman.out' has not changed.
+(rerunfilecheck)             Checksum: <no file>.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 26361.
+ ) 
+Here is how much of TeX's memory you used:
+ 21263 strings out of 493054
+ 336312 string characters out of 6138327
+ 502792 words of memory out of 5000000
+ 22294 multiletter control sequences out of 15000+600000
+ 57324 words of font info for 61 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 35i,12n,31p,478b,1188s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/texlive/2015
+/texmf-dist/fonts/enc/dvips/inconsolata/i4-ts1.enc}{c:/texlive/2015/texmf-dist/
+fonts/enc/dvips/base/8r.enc}{c:/texlive/2015/texmf-dist/fonts/enc/dvips/inconso
+lata/i4-t1-0.enc}{c:/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}<c:/t
+exlive/2015/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4b.pfb><c:/
+texlive/2015/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb><c:
+/texlive/2015/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb><c:/texlive/20
+15/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb><c:/texlive/2015/texmf-di
+st/fonts/type1/bitstrea/charter/bchri8a.pfb><c:/texlive/2015/texmf-dist/fonts/t
+ype1/public/lm/lmmi10.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/lm/lms
+s12.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/lm/lmss17.pfb>
+Output written on C:/LIBS5303Build/allegro5/build/docs/pdf/refman.pdf (352 page
+s, 907758 bytes).
+PDF statistics:
+ 11505 PDF objects out of 12825 (max. 8388607)
+ 11025 compressed objects within 111 object streams
+ 2290 named destinations out of 2487 (max. 500000)
+ 9157 words of extra memory for PDF output out of 10000 (max. 10000000)
+

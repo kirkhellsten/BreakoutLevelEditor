@@ -7,6 +7,8 @@
 #include <allegro5/allegro_image.h>
 #include <allegro5/allegro_primitives.h>
 
+#include "AllegroHelper.h"
+
 using namespace std;
 
 class UIWidget {
@@ -16,21 +18,32 @@ class UIWidget {
 
         ALLEGRO_COLOR backgroundColor;
         ALLEGRO_COLOR borderColor;
-        ALLEGRO_BITMAP *backgroundBitmap;
         ALLEGRO_BITMAP *backgroundImageBitmap;
 
         float borderThickness;
+        bool isBorderVisible;
+        bool isBackgroundVisible;
 
         virtual void render();
 
         int width() const;
         int height() const;
 
+        void resizeDimensions(int newWidth, int newHeight);
+        void changePosition(int newX, int newY);
+
+        int x(), y();
+
+        ALLEGRO_BITMAP *bitmap();
+
     protected:
 
-        int x, y;
+        int _x, _y;
         vector<UIWidget*> widgets;
-        ALLEGRO_BITMAP *bitmap;
+        ALLEGRO_BITMAP *_bitmap;
+
+        void _renderBackground();
+        void _renderBorder();
 
     private:
 };

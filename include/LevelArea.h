@@ -6,7 +6,7 @@
 class LevelArea : public Pane
 {
     public:
-        LevelArea(int x, int y, int width, int height);
+        LevelArea(int x, int y, int width, int height, const char *title);
         virtual ~LevelArea();
 
     protected:

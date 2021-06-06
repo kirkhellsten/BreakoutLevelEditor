@@ -1,0 +1,1315 @@
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.00000] opening C:\LIBS5303Distro\Allegro522_MinGW5303\bin\demos\skater\allegro5.cfg r
+system   D C:\LIBS5303Build\allegro5\src\win\wsystem.c:771  _al_win_safe_load_library        [   0.00000] PathFindOnPath found: C:\WINDOWS\system32\shcore.dll
+system   D C:\LIBS5303Build\allegro5\src\win\wsystem.c:682  load_library_at_path             [   0.00000] Calling LoadLibrary C:\WINDOWS\system32\shcore.dll
+system   I C:\LIBS5303Build\allegro5\src\win\wsystem.c:685  load_library_at_path             [   0.00000] Loaded C:\WINDOWS\system32\shcore.dll
+system   I C:\LIBS5303Build\allegro5\src\system.c:257  al_install_system                [   0.00000] Allegro version: 5.2.3 (GIT)
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.00530] opening C:/Users/Marc/AppData/Roaming/Allegro Skater Demo/demo.cfg r
+audio-dsound I C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:249  _dsound_open                     [   0.00807] Starting DirectSound...
+audio-dsound D C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:258  _dsound_open                     [   0.02533] DirectSoundCreate8 succeeded
+audio    I C:\LIBS5303Build\allegro5\addons\audio\audio.c:347  do_install_audio                 [   0.02728] Using DirectSound driver
+audio-dsound D C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:290  _dsound_allocate_voice           [   0.02735] Allocating voice
+audio-dsound D C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:349  _dsound_allocate_voice           [   0.02736] Allocated voice
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.02736] added dtor for voice 007FD970, func 67883FC8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.02737] added dtor for mixer 027345C8, func 67880044
+audio-dsound D C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:446  _dsound_start_voice              [   0.02738] Starting voice
+audio-dsound D C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:474  _dsound_start_voice              [   0.02739] CreateSoundBuffer
+audio-dsound D C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:483  _dsound_start_voice              [   0.02854] CreateSoundBuffer succeeded
+audio-dsound D C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:489  _dsound_start_voice              [   0.02855] Starting _dsound_update thread
+audio-dsound I C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:499  _dsound_start_voice              [   0.02859] Voice started
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.02860] added dtor for sample_instance 027348F8, func 6787A507
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:121  _al_rechannel_matrix             [   0.02862] sample matrix:
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02862] 
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02863] 
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.02863] added dtor for sample_instance 027349E8, func 6787A507
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:121  _al_rechannel_matrix             [   0.02864] sample matrix:
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02864] 
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02865] 
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.02865] added dtor for sample_instance 02734AD8, func 6787A507
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:121  _al_rechannel_matrix             [   0.02866] sample matrix:
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02866] 
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02866] 
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.02867] added dtor for sample_instance 02734DE8, func 6787A507
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:121  _al_rechannel_matrix             [   0.02868] sample matrix:
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02868] 
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02869] 
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.02869] added dtor for sample_instance 02734ED8, func 6787A507
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:121  _al_rechannel_matrix             [   0.02870] sample matrix:
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02870] 
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02871] 
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.02871] added dtor for sample_instance 027346D8, func 6787A507
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:121  _al_rechannel_matrix             [   0.02872] sample matrix:
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02872] 
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02873] 
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.02874] added dtor for sample_instance 02731618, func 6787A507
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:121  _al_rechannel_matrix             [   0.02887] sample matrix:
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02888] 
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02889] 
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.02889] added dtor for sample_instance 02731258, func 6787A507
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:121  _al_rechannel_matrix             [   0.02890] sample matrix:
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02890] 
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   0.02891] 
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.02892] added dtor for queue 027347C8, func 677A5297
+system   D C:\LIBS5303Build\allegro5\src\win\wsystem.c:771  _al_win_safe_load_library        [   0.02909] PathFindOnPath found: C:\WINDOWS\system32\d3d9.dll
+system   D C:\LIBS5303Build\allegro5\src\win\wsystem.c:682  load_library_at_path             [   0.02910] Calling LoadLibrary C:\WINDOWS\system32\d3d9.dll
+system   I C:\LIBS5303Build\allegro5\src\win\wsystem.c:685  load_library_at_path             [   0.03026] Loaded C:\WINDOWS\system32\d3d9.dll
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:674  d3d_init_display                 [   0.03509] Render-to-texture: 1
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1769 d3d_create_display_locked        [   0.03556] faux_fullscreen=0
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1770 d3d_create_display_locked        [   0.03557] al_display=02730750
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1771 d3d_create_display_locked        [   0.03558] al_display->vt=02730698
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_display_formats.cpp:144  _al_d3d_generate_display_format_list [   0.03587] found 64 format combinations
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03588] color: 32 (rgba 8880), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.03590] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03590] color: 32 (rgba 8880), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.03591] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03591] color: 32 (rgba 8880), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.03592] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03592] color: 32 (rgba 8880), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.03593] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03594] color: 32 (rgba 8880), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.03594] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03595] color: 32 (rgba 8880), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.03595] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03596] color: 32 (rgba 8880), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.03596] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03597] color: 32 (rgba 8880), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.03597] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03598] color: 16 (rgba 5650), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.03598] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03599] color: 16 (rgba 5650), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.03599] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03600] color: 16 (rgba 5650), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.03600] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03601] color: 16 (rgba 5650), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.03601] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03602] color: 16 (rgba 5650), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.03602] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03603] color: 16 (rgba 5650), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.03603] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03604] color: 16 (rgba 5650), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.03604] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03605] color: 16 (rgba 5650), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.03605] Score is : 897
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03606] color: 32 (rgba 8880), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.03606] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03607] color: 32 (rgba 8880), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.03608] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03608] color: 32 (rgba 8880), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.03609] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03609] color: 32 (rgba 8880), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.03610] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03610] color: 32 (rgba 8880), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.03611] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03611] color: 32 (rgba 8880), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.03612] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03612] color: 32 (rgba 8880), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.03613] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03613] color: 32 (rgba 8880), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.03614] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03614] color: 16 (rgba 5650), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.03615] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03615] color: 16 (rgba 5650), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.03616] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03616] color: 16 (rgba 5650), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.03617] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03617] color: 16 (rgba 5650), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.03618] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03618] color: 16 (rgba 5650), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.03619] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03620] color: 16 (rgba 5650), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.03620] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03621] color: 16 (rgba 5650), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.03621] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03622] color: 16 (rgba 5650), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.03622] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03623] color: 32 (rgba 8880), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.03623] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03624] color: 32 (rgba 8880), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.03624] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03625] color: 32 (rgba 8880), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.03625] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03626] color: 32 (rgba 8880), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.03626] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03627] color: 32 (rgba 8880), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.03627] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03628] color: 32 (rgba 8880), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.03628] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03629] color: 32 (rgba 8880), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.03629] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03630] color: 32 (rgba 8880), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.03631] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03631] color: 16 (rgba 5650), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.03632] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03632] color: 16 (rgba 5650), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.03633] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03633] color: 16 (rgba 5650), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.03634] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03634] color: 16 (rgba 5650), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.03635] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03635] color: 16 (rgba 5650), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.03636] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03636] color: 16 (rgba 5650), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.03637] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03637] color: 16 (rgba 5650), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.03638] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03638] color: 16 (rgba 5650), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:527  _al_score_display_settings       [   0.03639] Score is : 769
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03639] color: 32 (rgba 8880), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.03640] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03640] color: 32 (rgba 8880), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.03641] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03641] color: 32 (rgba 8880), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.03642] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03642] color: 32 (rgba 8880), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.03643] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03643] color: 32 (rgba 8880), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.03644] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03645] color: 32 (rgba 8880), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.03645] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03646] color: 32 (rgba 8880), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.03646] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03647] color: 32 (rgba 8880), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.03647] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03648] color: 16 (rgba 5650), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.03648] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03649] color: 16 (rgba 5650), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.03649] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03650] color: 16 (rgba 5650), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.03650] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03651] color: 16 (rgba 5650), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.03651] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03652] color: 16 (rgba 5650), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.03652] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03653] color: 16 (rgba 5650), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.03654] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03654] color: 16 (rgba 5650), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.03655] Single Buffer requirement not met.
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:212  debug_display_settings           [   0.03655] color: 16 (rgba 5650), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D C:\LIBS5303Build\allegro5\src\display_settings.c:398  _al_score_display_settings       [   0.03656] Single Buffer requirement not met.
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1669 d3d_create_display_internals     [   0.03657] Trying format 0.
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1344 d3d_display_thread_proc          [   0.03672] Chose a display format: 23
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1413 d3d_display_thread_proc          [   0.03674] Normal window.
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:781  d3d_create_device                [   0.04366] Using no depth stencil buffer
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:839  d3d_create_device                [   0.04951] BeginScene succeeded in create_device
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:847  d3d_create_device                [   0.04953] Success
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1692 d3d_create_display_internals     [   0.04954] Resumed after wait.
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1725 d3d_create_display_internals     [   0.04956] Format 0 succeeded.
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1756 d3d_create_display_internals     [   0.04958] Returning d3d_display: 02730750
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1781 d3d_create_display_locked        [   0.04958] al_display=02730750
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1782 d3d_create_display_locked        [   0.04959] al_display->vt=02730698
+system   D C:\LIBS5303Build\allegro5\src\win\wsystem.c:771  _al_win_safe_load_library        [   0.04980] PathFindOnPath found: C:\WINDOWS\system32\d3dx9_43.dll
+system   D C:\LIBS5303Build\allegro5\src\win\wsystem.c:682  load_library_at_path             [   0.04980] Calling LoadLibrary C:\WINDOWS\system32\d3dx9_43.dll
+system   I C:\LIBS5303Build\allegro5\src\win\wsystem.c:685  load_library_at_path             [   0.05011] Loaded C:\WINDOWS\system32\d3dx9_43.dll
+d3dx9    I C:\LIBS5303Build\allegro5\src\win\d3d_d3dx9.cpp:88   _imp_load_d3dx9_module_version   [   0.05012] Module "d3dx9_43.dll" loaded.
+display  I C:\LIBS5303Build\allegro5\src\display.c:236  al_resize_display                [   0.05015] Requested display resize 1302x663
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.05686] opening C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//menu/back.png rb
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.05767] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.05768] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.05769] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.05769] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.05770] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.05770] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.05771] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.05771] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.05772] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1196 real_choose_bitmap_format        [   0.05772] Alpha doesn't match
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1203 real_choose_bitmap_format        [   0.05772] Adapter format is 23
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1206 real_choose_bitmap_format        [   0.05773] Found a format
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:2378 d3d_create_bitmap                [   0.05773] Chose bitmap format 9
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.05795] added dtor for bitmap 02784030, func 677819CB
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.06021] opening C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//menu/cancunsmall.png rb
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.06058] added dtor for bitmap 02783DE8, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.06344] added dtor for bitmap 02783BF0, func 677819CB
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.07111] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.07112] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.07113] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.07113] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.07114] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.07114] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.07114] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.07115] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.07115] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1196 real_choose_bitmap_format        [   0.07116] Alpha doesn't match
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1203 real_choose_bitmap_format        [   0.07116] Adapter format is 23
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1206 real_choose_bitmap_format        [   0.07117] Found a format
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:2378 d3d_create_bitmap                [   0.07117] Chose bitmap format 9
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07138] added dtor for bitmap 027C4310, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07197] added dtor for sub_bitmap 02780FA0, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07198] added dtor for sub_bitmap 027810F0, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07199] added dtor for sub_bitmap 02781240, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07199] added dtor for sub_bitmap 02781390, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07200] added dtor for sub_bitmap 027814E0, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07200] added dtor for sub_bitmap 02781630, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07201] added dtor for sub_bitmap 02781780, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07202] added dtor for sub_bitmap 027818D0, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07202] added dtor for sub_bitmap 02781E28, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07203] added dtor for sub_bitmap 090B2178, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07204] added dtor for sub_bitmap 090B22C8, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07204] added dtor for sub_bitmap 090B2418, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07205] added dtor for sub_bitmap 090B2568, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07206] added dtor for sub_bitmap 090B2EF0, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07207] added dtor for sub_bitmap 090B31A0, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07207] added dtor for sub_bitmap 090B26E0, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07217] added dtor for sub_bitmap 090B2990, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07218] added dtor for sub_bitmap 090B3450, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07218] added dtor for sub_bitmap 090B3048, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07219] added dtor for sub_bitmap 090B2838, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07220] added dtor for sub_bitmap 090B2D98, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07220] added dtor for sub_bitmap 090B32F8, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07221] added dtor for sub_bitmap 090B2C40, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07221] added dtor for sub_bitmap 090B2AE8, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07222] added dtor for sub_bitmap 02826120, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07223] added dtor for sub_bitmap 02826278, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07223] added dtor for sub_bitmap 02825660, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07224] added dtor for sub_bitmap 02826D38, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07224] added dtor for sub_bitmap 028263D0, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07225] added dtor for sub_bitmap 028257B8, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07226] added dtor for sub_bitmap 02825910, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07226] added dtor for sub_bitmap 02825D18, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07236] added dtor for sub_bitmap 02826528, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07236] added dtor for sub_bitmap 02826680, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07237] added dtor for sub_bitmap 028267D8, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07238] added dtor for sub_bitmap 02825FC8, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07238] added dtor for sub_bitmap 02826930, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07239] added dtor for sub_bitmap 02826A88, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07240] added dtor for sub_bitmap 02826BE0, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07240] added dtor for sub_bitmap 02825A68, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07241] added dtor for sub_bitmap 028253B0, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07241] added dtor for sub_bitmap 02825BC0, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07242] added dtor for sub_bitmap 02825E70, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07243] added dtor for sub_bitmap 02824FA8, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07243] added dtor for sub_bitmap 02825100, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07244] added dtor for sub_bitmap 02825258, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07245] added dtor for sub_bitmap 02825508, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07246] added dtor for sub_bitmap 02828530, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07255] added dtor for sub_bitmap 02827108, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07256] added dtor for sub_bitmap 02828A90, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07257] added dtor for sub_bitmap 02827260, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07257] added dtor for sub_bitmap 02827BC8, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07258] added dtor for sub_bitmap 02828938, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07258] added dtor for sub_bitmap 02827918, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07259] added dtor for sub_bitmap 02827A70, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07260] added dtor for sub_bitmap 02828BE8, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07260] added dtor for sub_bitmap 02827D20, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07261] added dtor for sub_bitmap 028277C0, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07261] added dtor for sub_bitmap 02828280, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07262] added dtor for sub_bitmap 028283D8, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07263] added dtor for sub_bitmap 02828688, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07263] added dtor for sub_bitmap 028287E0, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07264] added dtor for sub_bitmap 02828D40, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07264] added dtor for sub_bitmap 02828128, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07274] added dtor for sub_bitmap 02826FB0, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07274] added dtor for sub_bitmap 028273B8, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07275] added dtor for sub_bitmap 02827510, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07276] added dtor for sub_bitmap 02827668, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07276] added dtor for sub_bitmap 02827E78, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07277] added dtor for sub_bitmap 02827FD0, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07278] added dtor for sub_bitmap 0282A538, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07279] added dtor for sub_bitmap 028293C0, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07280] added dtor for sub_bitmap 02829A78, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07280] added dtor for sub_bitmap 02829920, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07281] added dtor for sub_bitmap 0282A7E8, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07282] added dtor for sub_bitmap 02829518, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07282] added dtor for sub_bitmap 0282A690, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07283] added dtor for sub_bitmap 02829BD0, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07283] added dtor for sub_bitmap 0282AA98, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07284] added dtor for sub_bitmap 0282A130, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07294] added dtor for sub_bitmap 0282ABF0, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07294] added dtor for sub_bitmap 02829670, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07295] added dtor for sub_bitmap 028297C8, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07295] added dtor for sub_bitmap 0282B150, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07296] added dtor for sub_bitmap 02829D28, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07297] added dtor for sub_bitmap 0282A940, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07297] added dtor for sub_bitmap 02829E80, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07298] added dtor for sub_bitmap 02829FD8, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07299] added dtor for sub_bitmap 0282AEA0, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07299] added dtor for sub_bitmap 0282A288, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07300] added dtor for sub_bitmap 0282AD48, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07301] added dtor for sub_bitmap 0282A3E0, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07301] added dtor for sub_bitmap 0282AFF8, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07302] added dtor for sub_bitmap 0282D408, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07303] added dtor for sub_bitmap 0282B7D0, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07303] added dtor for sub_bitmap 0282C290, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.07307] removed dtor for bitmap 02783BF0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07311] added dtor for font 007FE748, func 678784A9
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.07311] removed dtor for bitmap 02783DE8
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.07322] opening C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//menu/logofont.png rb
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.07343] added dtor for bitmap 0282BD30, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.09530] added dtor for bitmap 0282B928, func 677819CB
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.16381] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.16384] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.16384] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.16385] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.16385] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.16386] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.16386] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.16387] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.16387] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1196 real_choose_bitmap_format        [   0.16387] Alpha doesn't match
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1203 real_choose_bitmap_format        [   0.16388] Adapter format is 23
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1206 real_choose_bitmap_format        [   0.16388] Found a format
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:2378 d3d_create_bitmap                [   0.16389] Chose bitmap format 9
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.16400] added dtor for bitmap 0282D158, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.16989] added dtor for sub_bitmap 0282BA80, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.16991] added dtor for sub_bitmap 0282CBF8, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.16992] added dtor for sub_bitmap 0282BBD8, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.16993] added dtor for sub_bitmap 0282BE88, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.16994] added dtor for sub_bitmap 0282C540, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.16995] added dtor for sub_bitmap 0282BFE0, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.16996] added dtor for sub_bitmap 0282C138, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.16997] added dtor for sub_bitmap 0282C698, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.16998] added dtor for sub_bitmap 0282D000, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.16999] added dtor for sub_bitmap 0282C3E8, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17000] added dtor for sub_bitmap 0282D2B0, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17001] added dtor for sub_bitmap 0282D560, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17002] added dtor for sub_bitmap 0282C7F0, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17003] added dtor for sub_bitmap 0282C948, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17004] added dtor for sub_bitmap 0282CAA0, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17004] added dtor for sub_bitmap 0282CD50, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17091] added dtor for sub_bitmap 0282CEA8, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17093] added dtor for sub_bitmap 08F91B50, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17094] added dtor for sub_bitmap 08F915F0, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17095] added dtor for sub_bitmap 08F90320, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17095] added dtor for sub_bitmap 08F909D8, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17096] added dtor for sub_bitmap 08F905D0, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17097] added dtor for sub_bitmap 08F91CA8, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17098] added dtor for sub_bitmap 08F91340, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17099] added dtor for sub_bitmap 08F91090, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17100] added dtor for sub_bitmap 08F91E00, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17100] added dtor for sub_bitmap 08F90070, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17101] added dtor for sub_bitmap 08F91498, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17102] added dtor for sub_bitmap 08F901C8, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17103] added dtor for sub_bitmap 08F90B30, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17104] added dtor for sub_bitmap 08F90880, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17105] added dtor for sub_bitmap 08F911E8, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17190] added dtor for sub_bitmap 08F91748, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17191] added dtor for sub_bitmap 08F90478, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17192] added dtor for sub_bitmap 08F90C88, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17193] added dtor for sub_bitmap 08F918A0, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17194] added dtor for sub_bitmap 08F90728, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17195] added dtor for sub_bitmap 08F90DE0, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17196] added dtor for sub_bitmap 08F90F38, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17197] added dtor for sub_bitmap 08F919F8, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17198] added dtor for sub_bitmap 08F925D8, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17199] added dtor for sub_bitmap 08F92F40, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17200] added dtor for sub_bitmap 08F93B58, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17201] added dtor for sub_bitmap 08F93750, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17201] added dtor for sub_bitmap 08F93348, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17202] added dtor for sub_bitmap 08F93098, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17203] added dtor for sub_bitmap 08F93A00, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17204] added dtor for sub_bitmap 08F93CB0, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17286] added dtor for sub_bitmap 08F92B38, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17287] added dtor for sub_bitmap 08F93E08, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17288] added dtor for sub_bitmap 08F92078, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17289] added dtor for sub_bitmap 08F921D0, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17290] added dtor for sub_bitmap 08F92C90, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17290] added dtor for sub_bitmap 08F938A8, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17291] added dtor for sub_bitmap 08F934A0, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17292] added dtor for sub_bitmap 08F935F8, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17293] added dtor for sub_bitmap 08F92328, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17294] added dtor for sub_bitmap 08F92480, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17295] added dtor for sub_bitmap 08F92730, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17296] added dtor for sub_bitmap 08F92888, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17297] added dtor for sub_bitmap 08F92DE8, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17298] added dtor for sub_bitmap 08F929E0, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17299] added dtor for sub_bitmap 08F931F0, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17300] added dtor for sub_bitmap 08F941D8, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17388] added dtor for sub_bitmap 08F94F48, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17389] added dtor for sub_bitmap 08F954A8, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17390] added dtor for sub_bitmap 08F94738, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17391] added dtor for sub_bitmap 08F94890, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17392] added dtor for sub_bitmap 08F94DF0, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17393] added dtor for sub_bitmap 08F95350, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17394] added dtor for sub_bitmap 08F95600, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17395] added dtor for sub_bitmap 08F95758, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17396] added dtor for sub_bitmap 08F95CB8, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17397] added dtor for sub_bitmap 08F958B0, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17397] added dtor for sub_bitmap 08F95A08, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17398] added dtor for sub_bitmap 08F950A0, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17399] added dtor for sub_bitmap 08F949E8, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17400] added dtor for sub_bitmap 08F94488, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17401] added dtor for sub_bitmap 08F94B40, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17402] added dtor for sub_bitmap 08F951F8, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17480] added dtor for sub_bitmap 08F95B60, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17481] added dtor for sub_bitmap 08F95E10, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17482] added dtor for sub_bitmap 08F94080, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17483] added dtor for sub_bitmap 08F94330, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17484] added dtor for sub_bitmap 08F945E0, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17485] added dtor for sub_bitmap 08F94C98, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17486] added dtor for sub_bitmap 08F98220, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17487] added dtor for sub_bitmap 08F969F0, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17488] added dtor for sub_bitmap 08F980C8, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17489] added dtor for sub_bitmap 08F97F70, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17490] added dtor for sub_bitmap 08F978B8, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17495] added dtor for sub_bitmap 08F96F50, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17496] added dtor for sub_bitmap 08F970A8, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17497] added dtor for sub_bitmap 08F97358, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17498] added dtor for sub_bitmap 08F97200, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17499] added dtor for sub_bitmap 08F974B0, func 677819CB
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.17526] removed dtor for bitmap 0282B928
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.17555] added dtor for font 007FE868, func 678784A9
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.17556] removed dtor for bitmap 0282BD30
+acodec   I C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:438  _al_load_ogg_vorbis_audio_stream [   0.17592] Loading stream C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//menu/skate2.ogg.
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.17594] opening C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//menu/skate2.ogg rb
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:497  _al_load_ogg_vorbis_audio_stream_f [   0.18027] channels 1
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:498  _al_load_ogg_vorbis_audio_stream_f [   0.18029] word_size 2
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:499  _al_load_ogg_vorbis_audio_stream_f [   0.18029] rate 44100
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:500  _al_load_ogg_vorbis_audio_stream_f [   0.18030] total_samples 5330351
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:501  _al_load_ogg_vorbis_audio_stream_f [   0.18030] total_size 10660702
+acodec   I C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:438  _al_load_ogg_vorbis_audio_stream [   0.18048] Loading stream C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//menu/intro_music.ogg.
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.18050] opening C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//menu/intro_music.ogg rb
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_stream.c:677  _al_kcm_feed_stream              [   0.18057] Stream feeder thread started.
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.18060] added dtor for queue 08F9F8A0, func 677A5297
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:497  _al_load_ogg_vorbis_audio_stream_f [   0.18419] channels 2
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:498  _al_load_ogg_vorbis_audio_stream_f [   0.18420] word_size 2
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:499  _al_load_ogg_vorbis_audio_stream_f [   0.18420] rate 44100
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:500  _al_load_ogg_vorbis_audio_stream_f [   0.18421] total_samples 346972
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:501  _al_load_ogg_vorbis_audio_stream_f [   0.18422] total_size 1387888
+acodec   I C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:438  _al_load_ogg_vorbis_audio_stream [   0.18436] Loading stream C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//menu/menu_music.ogg.
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.18437] opening C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//menu/menu_music.ogg rb
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_stream.c:677  _al_kcm_feed_stream              [   0.18441] Stream feeder thread started.
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.18445] added dtor for queue 08FB5310, func 677A5297
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:497  _al_load_ogg_vorbis_audio_stream_f [   0.18764] channels 1
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:498  _al_load_ogg_vorbis_audio_stream_f [   0.18765] word_size 2
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:499  _al_load_ogg_vorbis_audio_stream_f [   0.18766] rate 44100
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:500  _al_load_ogg_vorbis_audio_stream_f [   0.18766] total_samples 11487814
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:501  _al_load_ogg_vorbis_audio_stream_f [   0.18766] total_size 22975628
+acodec   I C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:438  _al_load_ogg_vorbis_audio_stream [   0.18776] Loading stream C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//menu/endoflevel.ogg.
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.18777] opening C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//menu/endoflevel.ogg rb
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_stream.c:677  _al_kcm_feed_stream              [   0.18782] Stream feeder thread started.
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.18785] added dtor for queue 08FD32A0, func 677A5297
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:497  _al_load_ogg_vorbis_audio_stream_f [   0.19112] channels 2
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:498  _al_load_ogg_vorbis_audio_stream_f [   0.19113] word_size 2
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:499  _al_load_ogg_vorbis_audio_stream_f [   0.19114] rate 44100
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:500  _al_load_ogg_vorbis_audio_stream_f [   0.19114] total_samples 284832
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:501  _al_load_ogg_vorbis_audio_stream_f [   0.19115] total_size 1139328
+acodec   I C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:204  _al_load_ogg_vorbis              [   0.19124] Loading sample C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//menu/button.ogg.
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.19125] opening C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//menu/button.ogg rb
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_stream.c:677  _al_kcm_feed_stream              [   0.19129] Stream feeder thread started.
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.19131] added dtor for queue 08FF0A78, func 677A5297
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:263  _al_load_ogg_vorbis_f            [   0.19562] channels 1
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:264  _al_load_ogg_vorbis_f            [   0.19565] word_size 2
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:265  _al_load_ogg_vorbis_f            [   0.19565] rate 44100
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:266  _al_load_ogg_vorbis_f            [   0.19566] total_samples 1139
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:267  _al_load_ogg_vorbis_f            [   0.19566] total_size 2278
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.19655] added dtor for sample 08FB91D0, func 678812A9
+acodec   I C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:204  _al_load_ogg_vorbis              [   0.19666] Loading sample C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//menu/welcome.ogg.
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.19667] opening C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//menu/welcome.ogg rb
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:263  _al_load_ogg_vorbis_f            [   0.20017] channels 1
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:264  _al_load_ogg_vorbis_f            [   0.20018] word_size 2
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:265  _al_load_ogg_vorbis_f            [   0.20019] rate 22050
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:266  _al_load_ogg_vorbis_f            [   0.20019] total_samples 24080
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:267  _al_load_ogg_vorbis_f            [   0.20020] total_size 48160
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.20185] added dtor for sample 08FB91F8, func 678812A9
+acodec   I C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:204  _al_load_ogg_vorbis              [   0.20194] Loading sample C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//audio/skating.ogg.
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.20195] opening C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//audio/skating.ogg rb
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:263  _al_load_ogg_vorbis_f            [   0.20509] channels 1
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:264  _al_load_ogg_vorbis_f            [   0.20510] word_size 2
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:265  _al_load_ogg_vorbis_f            [   0.20511] rate 44100
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:266  _al_load_ogg_vorbis_f            [   0.20511] total_samples 19527
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:267  _al_load_ogg_vorbis_f            [   0.20512] total_size 39054
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.20647] added dtor for sample 08FB9388, func 678812A9
+acodec   I C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:204  _al_load_ogg_vorbis              [   0.20655] Loading sample C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//audio/wave.ogg.
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.20656] opening C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//audio/wave.ogg rb
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:263  _al_load_ogg_vorbis_f            [   0.21055] channels 1
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:264  _al_load_ogg_vorbis_f            [   0.21058] word_size 2
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:265  _al_load_ogg_vorbis_f            [   0.21058] rate 22050
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:266  _al_load_ogg_vorbis_f            [   0.21059] total_samples 55571
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:267  _al_load_ogg_vorbis_f            [   0.21059] total_size 111142
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.21278] added dtor for sample 08FB9360, func 678812A9
+acodec   I C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:204  _al_load_ogg_vorbis              [   0.21286] Loading sample C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//audio/ding.ogg.
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.21287] opening C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//audio/ding.ogg rb
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:263  _al_load_ogg_vorbis_f            [   0.21592] channels 1
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:264  _al_load_ogg_vorbis_f            [   0.21593] word_size 2
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:265  _al_load_ogg_vorbis_f            [   0.21593] rate 22050
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:266  _al_load_ogg_vorbis_f            [   0.21594] total_samples 11742
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:267  _al_load_ogg_vorbis_f            [   0.21594] total_size 23484
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.21696] added dtor for sample 0907B7C0, func 678812A9
+acodec   I C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:204  _al_load_ogg_vorbis              [   0.21703] Loading sample C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//audio/dooropen.ogg.
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.21704] opening C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//audio/dooropen.ogg rb
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:263  _al_load_ogg_vorbis_f            [   0.22000] channels 1
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:264  _al_load_ogg_vorbis_f            [   0.22000] word_size 2
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:265  _al_load_ogg_vorbis_f            [   0.22001] rate 22050
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:266  _al_load_ogg_vorbis_f            [   0.22001] total_samples 23196
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:267  _al_load_ogg_vorbis_f            [   0.22002] total_size 46392
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.22132] added dtor for sample 0907B748, func 678812A9
+acodec   I C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:204  _al_load_ogg_vorbis              [   0.22138] Loading sample C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//audio/pop.ogg.
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.22139] opening C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//audio/pop.ogg rb
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:263  _al_load_ogg_vorbis_f            [   0.22429] channels 1
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:264  _al_load_ogg_vorbis_f            [   0.22430] word_size 2
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:265  _al_load_ogg_vorbis_f            [   0.22431] rate 22050
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:266  _al_load_ogg_vorbis_f            [   0.22431] total_samples 4366
+acodec   D C:\LIBS5303Build\allegro5\addons\acodec\ogg.c:267  _al_load_ogg_vorbis_f            [   0.22431] total_size 8732
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.22515] added dtor for sample 0907B838, func 678812A9
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.22522] opening C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//graphics/bananas.png rb
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.22535] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.22536] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.22536] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.22537] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.22537] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.22538] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.22538] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.22539] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.22539] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1196 real_choose_bitmap_format        [   0.22540] Alpha doesn't match
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1203 real_choose_bitmap_format        [   0.22540] Adapter format is 23
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1206 real_choose_bitmap_format        [   0.22541] Found a format
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:2378 d3d_create_bitmap                [   0.22541] Chose bitmap format 9
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.22551] added dtor for bitmap 08F96B48, func 677819CB
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.22668] opening C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//graphics/cherries.png rb
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.22717] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.22718] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.22718] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.22719] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.22719] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.22720] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.22720] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.22720] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.22721] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1196 real_choose_bitmap_format        [   0.22722] Alpha doesn't match
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1203 real_choose_bitmap_format        [   0.22723] Adapter format is 23
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1206 real_choose_bitmap_format        [   0.22723] Found a format
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:2378 d3d_create_bitmap                [   0.22724] Chose bitmap format 9
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.22769] added dtor for bitmap 08F97608, func 677819CB
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.22816] opening C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//graphics/cloud.png rb
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.22835] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.22836] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.22837] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.22837] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.22838] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.22838] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.22839] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.22839] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.22839] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1196 real_choose_bitmap_format        [   0.22840] Alpha doesn't match
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1203 real_choose_bitmap_format        [   0.22840] Adapter format is 23
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1206 real_choose_bitmap_format        [   0.22841] Found a format
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:2378 d3d_create_bitmap                [   0.22841] Chose bitmap format 9
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.22851] added dtor for bitmap 08F97A10, func 677819CB
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.22964] opening C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//graphics/dooropen.png rb
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.22978] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.22979] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.22979] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.22979] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.22980] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.22980] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.22981] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.22981] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.22982] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1196 real_choose_bitmap_format        [   0.22982] Alpha doesn't match
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1203 real_choose_bitmap_format        [   0.22982] Adapter format is 23
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1206 real_choose_bitmap_format        [   0.22983] Found a format
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:2378 d3d_create_bitmap                [   0.22983] Chose bitmap format 9
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.22992] added dtor for bitmap 08F97CC0, func 677819CB
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.23012] opening C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//graphics/doorshut.png rb
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23023] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23024] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23024] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23025] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23025] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23026] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23026] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23027] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23027] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1196 real_choose_bitmap_format        [   0.23027] Alpha doesn't match
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1203 real_choose_bitmap_format        [   0.23028] Adapter format is 23
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1206 real_choose_bitmap_format        [   0.23028] Found a format
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:2378 d3d_create_bitmap                [   0.23029] Chose bitmap format 9
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.23036] added dtor for bitmap 08F97760, func 677819CB
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.23057] opening C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//graphics/exitsign.png rb
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23067] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23068] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23069] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23069] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23069] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23070] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23070] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23071] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23071] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1196 real_choose_bitmap_format        [   0.23072] Alpha doesn't match
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1203 real_choose_bitmap_format        [   0.23072] Adapter format is 23
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1206 real_choose_bitmap_format        [   0.23072] Found a format
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:2378 d3d_create_bitmap                [   0.23073] Chose bitmap format 9
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.23078] added dtor for bitmap 08F96898, func 677819CB
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.23090] opening C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//graphics/grass.png rb
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23100] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23101] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23102] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23102] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23102] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23103] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23103] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23104] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23104] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1196 real_choose_bitmap_format        [   0.23105] Alpha doesn't match
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1203 real_choose_bitmap_format        [   0.23105] Adapter format is 23
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1206 real_choose_bitmap_format        [   0.23106] Found a format
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:2378 d3d_create_bitmap                [   0.23106] Chose bitmap format 9
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.23111] added dtor for bitmap 08F96740, func 677819CB
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.23126] opening C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//graphics/icecream.png rb
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23140] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23141] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23141] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23142] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23142] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23143] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23143] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23144] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23144] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1196 real_choose_bitmap_format        [   0.23144] Alpha doesn't match
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1203 real_choose_bitmap_format        [   0.23145] Adapter format is 23
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1206 real_choose_bitmap_format        [   0.23145] Found a format
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:2378 d3d_create_bitmap                [   0.23146] Chose bitmap format 9
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.23153] added dtor for bitmap 08F97B68, func 677819CB
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.23176] opening C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//graphics/ice.png rb
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23191] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23192] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23193] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23193] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23193] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23194] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23194] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23195] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23195] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1196 real_choose_bitmap_format        [   0.23196] Alpha doesn't match
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1203 real_choose_bitmap_format        [   0.23196] Adapter format is 23
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1206 real_choose_bitmap_format        [   0.23196] Found a format
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:2378 d3d_create_bitmap                [   0.23197] Chose bitmap format 9
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.23208] added dtor for bitmap 08F96490, func 677819CB
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.23275] opening C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//graphics/icetip.png rb
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23290] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23291] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23291] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23292] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23292] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23293] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23293] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23294] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23294] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1196 real_choose_bitmap_format        [   0.23294] Alpha doesn't match
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1203 real_choose_bitmap_format        [   0.23295] Adapter format is 23
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1206 real_choose_bitmap_format        [   0.23295] Found a format
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:2378 d3d_create_bitmap                [   0.23296] Chose bitmap format 9
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.23303] added dtor for bitmap 08F97E18, func 677819CB
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.23320] opening C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//graphics/orange.png rb
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23332] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23333] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23334] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23334] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23335] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23335] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23335] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23336] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23336] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1196 real_choose_bitmap_format        [   0.23337] Alpha doesn't match
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1203 real_choose_bitmap_format        [   0.23337] Adapter format is 23
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1206 real_choose_bitmap_format        [   0.23338] Found a format
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:2378 d3d_create_bitmap                [   0.23338] Chose bitmap format 9
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.23345] added dtor for bitmap 08F965E8, func 677819CB
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.23359] opening C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//graphics/skatefast.png rb
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23371] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23372] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23372] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23373] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23373] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23374] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23374] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23375] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23375] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1196 real_choose_bitmap_format        [   0.23375] Alpha doesn't match
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1203 real_choose_bitmap_format        [   0.23376] Adapter format is 23
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1206 real_choose_bitmap_format        [   0.23376] Found a format
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:2378 d3d_create_bitmap                [   0.23377] Chose bitmap format 9
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.23384] added dtor for bitmap 08F96CA0, func 677819CB
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.23400] opening C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//graphics/skatemed.png rb
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23412] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23414] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23414] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23415] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23415] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23416] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23416] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23416] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23417] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1196 real_choose_bitmap_format        [   0.23417] Alpha doesn't match
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1203 real_choose_bitmap_format        [   0.23418] Adapter format is 23
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1206 real_choose_bitmap_format        [   0.23418] Found a format
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:2378 d3d_create_bitmap                [   0.23419] Chose bitmap format 9
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.23425] added dtor for bitmap 08F96DF8, func 677819CB
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.23440] opening C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//graphics/skater1.png rb
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23451] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23452] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23452] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23453] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23453] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23453] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23454] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23455] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23455] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1196 real_choose_bitmap_format        [   0.23455] Alpha doesn't match
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1203 real_choose_bitmap_format        [   0.23456] Adapter format is 23
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1206 real_choose_bitmap_format        [   0.23456] Found a format
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:2378 d3d_create_bitmap                [   0.23457] Chose bitmap format 9
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.23463] added dtor for bitmap 0282B928, func 677819CB
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.23478] opening C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//graphics/skater2.png rb
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23490] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23490] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23491] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23491] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23492] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23492] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23492] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23493] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23493] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1196 real_choose_bitmap_format        [   0.23494] Alpha doesn't match
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1203 real_choose_bitmap_format        [   0.23494] Adapter format is 23
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1206 real_choose_bitmap_format        [   0.23495] Found a format
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:2378 d3d_create_bitmap                [   0.23495] Chose bitmap format 9
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.23500] added dtor for bitmap 0282BD30, func 677819CB
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.23515] opening C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//graphics/skater3.png rb
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23528] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23528] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23529] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23529] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23530] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23530] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23531] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23531] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23532] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1196 real_choose_bitmap_format        [   0.23532] Alpha doesn't match
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1203 real_choose_bitmap_format        [   0.23533] Adapter format is 23
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1206 real_choose_bitmap_format        [   0.23533] Found a format
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:2378 d3d_create_bitmap                [   0.23534] Chose bitmap format 9
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.23539] added dtor for bitmap 09097DD8, func 677819CB
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.23555] opening C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//graphics/skater4.png rb
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23566] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23566] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23567] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23567] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23568] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23568] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23568] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23569] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23569] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1196 real_choose_bitmap_format        [   0.23570] Alpha doesn't match
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1203 real_choose_bitmap_format        [   0.23570] Adapter format is 23
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1206 real_choose_bitmap_format        [   0.23571] Found a format
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:2378 d3d_create_bitmap                [   0.23571] Chose bitmap format 9
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.23578] added dtor for bitmap 09097C80, func 677819CB
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.23593] opening C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//graphics/skateslow.png rb
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23606] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23606] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23607] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23607] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23608] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23608] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23608] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23609] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23609] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1196 real_choose_bitmap_format        [   0.23610] Alpha doesn't match
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1203 real_choose_bitmap_format        [   0.23610] Adapter format is 23
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1206 real_choose_bitmap_format        [   0.23611] Found a format
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:2378 d3d_create_bitmap                [   0.23611] Chose bitmap format 9
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.23617] added dtor for bitmap 09098CA0, func 677819CB
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.23646] opening C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//graphics/soil.png rb
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23669] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23670] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23671] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23671] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23672] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23672] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23673] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23673] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23673] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1196 real_choose_bitmap_format        [   0.23674] Alpha doesn't match
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1203 real_choose_bitmap_format        [   0.23674] Adapter format is 23
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1206 real_choose_bitmap_format        [   0.23675] Found a format
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:2378 d3d_create_bitmap                [   0.23675] Chose bitmap format 9
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.23689] added dtor for bitmap 09098F50, func 677819CB
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.23771] opening C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//graphics/sweet.png rb
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23784] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23784] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23785] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23785] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23786] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23786] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23787] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23787] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23788] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1196 real_choose_bitmap_format        [   0.23788] Alpha doesn't match
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1203 real_choose_bitmap_format        [   0.23789] Adapter format is 23
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1206 real_choose_bitmap_format        [   0.23789] Found a format
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:2378 d3d_create_bitmap                [   0.23790] Chose bitmap format 9
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.23797] added dtor for bitmap 090990A8, func 677819CB
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.23969] opening C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//graphics/water.png rb
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23987] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23990] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23990] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23991] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23991] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23992] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23992] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23993] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.23993] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1196 real_choose_bitmap_format        [   0.23993] Alpha doesn't match
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1203 real_choose_bitmap_format        [   0.23994] Adapter format is 23
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1206 real_choose_bitmap_format        [   0.23994] Found a format
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:2378 d3d_create_bitmap                [   0.23995] Chose bitmap format 9
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.24010] added dtor for bitmap 09098338, func 677819CB
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.24128] opening C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data/level.txt r
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.29662] added dtor for sample_instance 02731168, func 6787A507
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.29693] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.29694] _al_d3d_sync_bitmap (video) ref count == 1
+system   D C:\LIBS5303Build\allegro5\src\win\wsystem.c:392  win_get_joystick_driver          [   0.29735] Selected combined XInput/DirectInput joystick driver.
+system   D C:\LIBS5303Build\allegro5\src\win\wsystem.c:771  _al_win_safe_load_library        [   0.29755] PathFindOnPath found: C:\WINDOWS\system32\xinput1_4.dll
+system   D C:\LIBS5303Build\allegro5\src\win\wsystem.c:682  load_library_at_path             [   0.29756] Calling LoadLibrary C:\WINDOWS\system32\xinput1_4.dll
+system   I C:\LIBS5303Build\allegro5\src\win\wsystem.c:685  load_library_at_path             [   0.29790] Loaded C:\WINDOWS\system32\xinput1_4.dll
+xinput   I C:\LIBS5303Build\allegro5\src\win\wjoyxi.c:214  _imp_load_xinput_module_version  [   0.29792] Module "xinput1_4.dll" loaded.
+system   D C:\LIBS5303Build\allegro5\src\win\wsystem.c:771  _al_win_safe_load_library        [   0.29820] PathFindOnPath found: C:\WINDOWS\system32\dinput8.dll
+system   D C:\LIBS5303Build\allegro5\src\win\wsystem.c:682  load_library_at_path             [   0.29821] Calling LoadLibrary C:\WINDOWS\system32\dinput8.dll
+system   I C:\LIBS5303Build\allegro5\src\win\wsystem.c:685  load_library_at_path             [   0.29851] Loaded C:\WINDOWS\system32\dinput8.dll
+dinput   I C:\LIBS5303Build\allegro5\src\win\wjoydxnu.cpp:1107 joydx_merge                      [   0.51753] Merged, num joysticks=0
+system   D C:\LIBS5303Build\allegro5\src\win\wsystem.c:771  _al_win_safe_load_library        [   0.51847] PathFindOnPath found: C:\WINDOWS\system32\user32.dll
+system   D C:\LIBS5303Build\allegro5\src\win\wsystem.c:682  load_library_at_path             [   0.51848] Calling LoadLibrary C:\WINDOWS\system32\user32.dll
+system   I C:\LIBS5303Build\allegro5\src\win\wsystem.c:685  load_library_at_path             [   0.51849] Loaded C:\WINDOWS\system32\user32.dll
+touch    I C:\LIBS5303Build\allegro5\src\win\wtouch_input.c:90   _al_win_init_touch_input_api     [   0.51851] touch input API installed successfully
+touch    I C:\LIBS5303Build\allegro5\src\win\wtouch_input.c:241  init_touch_input                 [   0.51853] registering touch window 02730750: 0
+touch    E C:\LIBS5303Build\allegro5\src\win\wtouch_input.c:243  init_touch_input                 [   0.51854] RegisterTouchWindow failed: Access is denied.
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.51873] added dtor for timer 02742B68, func 677B5988
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.51889] opening C:/Users/Marc/AppData/Roaming/Allegro Skater Demo/demo.cfg r
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.51908] opening C:/Users/Marc/AppData/Roaming/Allegro Skater Demo/demo.cfg r
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.51926] opening C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//readme.txt r
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.52233] opening C:/LIBS5303Distro/Allegro522_MinGW5303/bin/demos/skater/data//thanks.txt r
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.53612] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.53613] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.53613] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.53614] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.53614] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.53615] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.53615] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.53615] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.53616] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1196 real_choose_bitmap_format        [   0.53616] Alpha doesn't match
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1203 real_choose_bitmap_format        [   0.53617] Adapter format is 23
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1206 real_choose_bitmap_format        [   0.53617] Found a format
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:2378 d3d_create_bitmap                [   0.53618] Chose bitmap format 9
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.53631] added dtor for bitmap 09098DF8, func 677819CB
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.53633] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.53634] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.53634] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.53635] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.53635] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.53636] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.53636] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.53636] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   0.53637] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1196 real_choose_bitmap_format        [   0.53637] Alpha doesn't match
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1203 real_choose_bitmap_format        [   0.53638] Adapter format is 23
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1206 real_choose_bitmap_format        [   0.53638] Found a format
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:2378 d3d_create_bitmap                [   0.53639] Chose bitmap format 9
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.53646] added dtor for bitmap 09097720, func 677819CB
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.55774] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.55779] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.55870] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.55872] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.55926] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.55927] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.56343] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.56345] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.56367] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.56369] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.56387] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.56388] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.56399] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.56400] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.56416] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.56417] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.56438] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.56439] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.56454] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.56455] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.56469] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.56470] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.56485] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.56487] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.56506] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.56507] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.56521] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.56522] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.56537] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.56538] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.56551] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.56552] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.56566] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.56567] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.56581] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.56582] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.56596] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.56597] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.56612] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.56613] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.56628] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.56629] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.56642] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.56644] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.56665] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.56666] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.56680] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.56681] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.56705] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.56706] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   0.57121] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   0.57123] _al_d3d_sync_bitmap (video) ref count == 1
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.82899] removed dtor for bitmap 09098DF8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.83229] removed dtor for bitmap 09097720
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:121  _al_rechannel_matrix             [   1.32894] sample matrix:
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   1.32905]  0.452548 0.000000
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   1.32908]  0.000000 0.452548
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:121  _al_rechannel_matrix             [   3.73891] sample matrix:
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   3.73893]  0.320000
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   3.73894]  0.320000
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:121  _al_rechannel_matrix             [   3.73895] sample matrix:
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   3.73896]  0.500000
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   3.73896]  0.500000
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:121  _al_rechannel_matrix             [   3.73897] sample matrix:
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   3.73898]  0.320000
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_mixer.c:127  _al_rechannel_matrix             [   3.73898]  0.320000
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   3.73899] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   3.73900] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   3.73900] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   3.73901] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   3.73901] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   3.73901] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   3.73902] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   3.73902] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   3.73903] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1196 real_choose_bitmap_format        [   3.73903] Alpha doesn't match
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1203 real_choose_bitmap_format        [   3.73904] Adapter format is 23
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1206 real_choose_bitmap_format        [   3.73904] Found a format
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:2378 d3d_create_bitmap                [   3.73905] Chose bitmap format 9
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   3.73918] added dtor for bitmap 09099358, func 677819CB
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   3.73924] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   3.73925] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   3.73925] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   3.73925] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   3.73926] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   3.73926] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   3.73927] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   3.73927] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   3.73928] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1196 real_choose_bitmap_format        [   3.73928] Alpha doesn't match
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1203 real_choose_bitmap_format        [   3.73928] Adapter format is 23
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1206 real_choose_bitmap_format        [   3.73929] Found a format
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:2378 d3d_create_bitmap                [   3.73929] Chose bitmap format 9
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   3.73937] added dtor for bitmap 090994B0, func 677819CB
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   3.74668] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   3.74670] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   3.75123] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   3.75125] _al_d3d_sync_bitmap (video) ref count == 1
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   4.04895] removed dtor for bitmap 09099358
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   4.05010] removed dtor for bitmap 090994B0
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   4.99893] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   4.99898] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   4.99899] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   4.99901] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   4.99902] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   4.99903] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   4.99905] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   4.99906] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   4.99907] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1196 real_choose_bitmap_format        [   4.99908] Alpha doesn't match
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1203 real_choose_bitmap_format        [   4.99909] Adapter format is 23
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1206 real_choose_bitmap_format        [   4.99911] Found a format
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:2378 d3d_create_bitmap                [   4.99912] Chose bitmap format 9
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   4.99951] added dtor for bitmap 09098898, func 677819CB
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   5.00276] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   5.00279] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   5.00281] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   5.00282] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   5.00284] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   5.00285] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   5.00286] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   5.00288] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1188 real_choose_bitmap_format        [   5.00289] Fake format
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1196 real_choose_bitmap_format        [   5.00290] Alpha doesn't match
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1203 real_choose_bitmap_format        [   5.00291] Adapter format is 23
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1206 real_choose_bitmap_format        [   5.00293] Found a format
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:2378 d3d_create_bitmap                [   5.00294] Chose bitmap format 9
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   5.00325] added dtor for bitmap 09099358, func 677819CB
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   5.01246] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   5.01253] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:539  _al_d3d_sync_bitmap              [   5.01885] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_bmp.cpp:545  _al_d3d_sync_bitmap              [   5.01890] _al_d3d_sync_bitmap (video) ref count == 1
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.30894] removed dtor for bitmap 09098898
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.31223] removed dtor for bitmap 09099358
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.31516] removed dtor for queue 027347C8
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   5.31525] opening C:/Users/Marc/AppData/Roaming/Allegro Skater Demo/demo.cfg r
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   5.31619] opening C:/Users/Marc/AppData/Roaming/Allegro Skater Demo/demo.cfg w
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   5.32111] opening C:/Users/Marc/AppData/Roaming/Allegro Skater Demo/demo.cfg r
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   5.32205] opening C:/Users/Marc/AppData/Roaming/Allegro Skater Demo/demo.cfg w
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   5.32528] opening C:/Users/Marc/AppData/Roaming/Allegro Skater Demo/demo.cfg r
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   5.32598] opening C:/Users/Marc/AppData/Roaming/Allegro Skater Demo/demo.cfg w
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32821] removed dtor for bitmap 02784030
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32854] removed dtor for font 007FE748
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32857] removed dtor for sub_bitmap 02780FA0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32858] removed dtor for sub_bitmap 027810F0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32860] removed dtor for sub_bitmap 02781240
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32861] removed dtor for sub_bitmap 02781390
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32862] removed dtor for sub_bitmap 027814E0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32864] removed dtor for sub_bitmap 02781630
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32865] removed dtor for sub_bitmap 02781780
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32866] removed dtor for sub_bitmap 027818D0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32867] removed dtor for sub_bitmap 02781E28
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32869] removed dtor for sub_bitmap 090B2178
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32870] removed dtor for sub_bitmap 090B22C8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32871] removed dtor for sub_bitmap 090B2418
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32872] removed dtor for sub_bitmap 090B2568
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32873] removed dtor for sub_bitmap 090B2EF0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32875] removed dtor for sub_bitmap 090B31A0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32876] removed dtor for sub_bitmap 090B26E0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32877] removed dtor for sub_bitmap 090B2990
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32878] removed dtor for sub_bitmap 090B3450
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32879] removed dtor for sub_bitmap 090B3048
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32880] removed dtor for sub_bitmap 090B2838
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32882] removed dtor for sub_bitmap 090B2D98
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32883] removed dtor for sub_bitmap 090B32F8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32884] removed dtor for sub_bitmap 090B2C40
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32885] removed dtor for sub_bitmap 090B2AE8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32887] removed dtor for sub_bitmap 02826120
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32888] removed dtor for sub_bitmap 02826278
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32889] removed dtor for sub_bitmap 02825660
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32890] removed dtor for sub_bitmap 02826D38
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32891] removed dtor for sub_bitmap 028263D0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32892] removed dtor for sub_bitmap 028257B8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32894] removed dtor for sub_bitmap 02825910
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32895] removed dtor for sub_bitmap 02825D18
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32896] removed dtor for sub_bitmap 02826528
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32897] removed dtor for sub_bitmap 02826680
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32898] removed dtor for sub_bitmap 028267D8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32899] removed dtor for sub_bitmap 02825FC8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32901] removed dtor for sub_bitmap 02826930
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32902] removed dtor for sub_bitmap 02826A88
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32903] removed dtor for sub_bitmap 02826BE0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32904] removed dtor for sub_bitmap 02825A68
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32905] removed dtor for sub_bitmap 028253B0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32906] removed dtor for sub_bitmap 02825BC0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32908] removed dtor for sub_bitmap 02825E70
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32909] removed dtor for sub_bitmap 02824FA8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32910] removed dtor for sub_bitmap 02825100
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32911] removed dtor for sub_bitmap 02825258
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32912] removed dtor for sub_bitmap 02825508
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32913] removed dtor for sub_bitmap 02828530
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32914] removed dtor for sub_bitmap 02827108
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32915] removed dtor for sub_bitmap 02828A90
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32917] removed dtor for sub_bitmap 02827260
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32918] removed dtor for sub_bitmap 02827BC8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32919] removed dtor for sub_bitmap 02828938
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32920] removed dtor for sub_bitmap 02827918
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32921] removed dtor for sub_bitmap 02827A70
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32922] removed dtor for sub_bitmap 02828BE8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32923] removed dtor for sub_bitmap 02827D20
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32924] removed dtor for sub_bitmap 028277C0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32926] removed dtor for sub_bitmap 02828280
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32927] removed dtor for sub_bitmap 028283D8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32928] removed dtor for sub_bitmap 02828688
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32929] removed dtor for sub_bitmap 028287E0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32930] removed dtor for sub_bitmap 02828D40
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32931] removed dtor for sub_bitmap 02828128
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32932] removed dtor for sub_bitmap 02826FB0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32933] removed dtor for sub_bitmap 028273B8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32934] removed dtor for sub_bitmap 02827510
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32936] removed dtor for sub_bitmap 02827668
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32937] removed dtor for sub_bitmap 02827E78
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32938] removed dtor for sub_bitmap 02827FD0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32939] removed dtor for sub_bitmap 0282A538
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32940] removed dtor for sub_bitmap 028293C0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32941] removed dtor for sub_bitmap 02829A78
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32942] removed dtor for sub_bitmap 02829920
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32944] removed dtor for sub_bitmap 0282A7E8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32945] removed dtor for sub_bitmap 02829518
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32946] removed dtor for sub_bitmap 0282A690
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32947] removed dtor for sub_bitmap 02829BD0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32948] removed dtor for sub_bitmap 0282AA98
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32949] removed dtor for sub_bitmap 0282A130
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32950] removed dtor for sub_bitmap 0282ABF0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32951] removed dtor for sub_bitmap 02829670
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32953] removed dtor for sub_bitmap 028297C8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32954] removed dtor for sub_bitmap 0282B150
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32955] removed dtor for sub_bitmap 02829D28
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32956] removed dtor for sub_bitmap 0282A940
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32957] removed dtor for sub_bitmap 02829E80
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32958] removed dtor for sub_bitmap 02829FD8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32959] removed dtor for sub_bitmap 0282AEA0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32961] removed dtor for sub_bitmap 0282A288
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32962] removed dtor for sub_bitmap 0282AD48
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32963] removed dtor for sub_bitmap 0282A3E0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32964] removed dtor for sub_bitmap 0282AFF8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32965] removed dtor for sub_bitmap 0282D408
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32966] removed dtor for sub_bitmap 0282B7D0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32967] removed dtor for sub_bitmap 0282C290
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32969] removed dtor for bitmap 027C4310
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32988] removed dtor for font 007FE868
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32990] removed dtor for sub_bitmap 0282BA80
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32991] removed dtor for sub_bitmap 0282CBF8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32993] removed dtor for sub_bitmap 0282BBD8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32994] removed dtor for sub_bitmap 0282BE88
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32995] removed dtor for sub_bitmap 0282C540
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32996] removed dtor for sub_bitmap 0282BFE0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32997] removed dtor for sub_bitmap 0282C138
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32998] removed dtor for sub_bitmap 0282C698
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.32999] removed dtor for sub_bitmap 0282D000
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33000] removed dtor for sub_bitmap 0282C3E8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33002] removed dtor for sub_bitmap 0282D2B0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33003] removed dtor for sub_bitmap 0282D560
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33004] removed dtor for sub_bitmap 0282C7F0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33005] removed dtor for sub_bitmap 0282C948
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33006] removed dtor for sub_bitmap 0282CAA0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33007] removed dtor for sub_bitmap 0282CD50
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33008] removed dtor for sub_bitmap 0282CEA8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33010] removed dtor for sub_bitmap 08F91B50
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33011] removed dtor for sub_bitmap 08F915F0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33012] removed dtor for sub_bitmap 08F90320
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33013] removed dtor for sub_bitmap 08F909D8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33014] removed dtor for sub_bitmap 08F905D0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33015] removed dtor for sub_bitmap 08F91CA8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33016] removed dtor for sub_bitmap 08F91340
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33017] removed dtor for sub_bitmap 08F91090
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33019] removed dtor for sub_bitmap 08F91E00
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33020] removed dtor for sub_bitmap 08F90070
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33021] removed dtor for sub_bitmap 08F91498
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33022] removed dtor for sub_bitmap 08F901C8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33023] removed dtor for sub_bitmap 08F90B30
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33024] removed dtor for sub_bitmap 08F90880
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33025] removed dtor for sub_bitmap 08F911E8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33026] removed dtor for sub_bitmap 08F91748
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33027] removed dtor for sub_bitmap 08F90478
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33028] removed dtor for sub_bitmap 08F90C88
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33029] removed dtor for sub_bitmap 08F918A0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33031] removed dtor for sub_bitmap 08F90728
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33032] removed dtor for sub_bitmap 08F90DE0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33033] removed dtor for sub_bitmap 08F90F38
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33034] removed dtor for sub_bitmap 08F919F8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33035] removed dtor for sub_bitmap 08F925D8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33037] removed dtor for sub_bitmap 08F92F40
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33038] removed dtor for sub_bitmap 08F93B58
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33039] removed dtor for sub_bitmap 08F93750
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33040] removed dtor for sub_bitmap 08F93348
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33041] removed dtor for sub_bitmap 08F93098
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33042] removed dtor for sub_bitmap 08F93A00
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33043] removed dtor for sub_bitmap 08F93CB0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33045] removed dtor for sub_bitmap 08F92B38
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33046] removed dtor for sub_bitmap 08F93E08
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33047] removed dtor for sub_bitmap 08F92078
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33048] removed dtor for sub_bitmap 08F921D0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33049] removed dtor for sub_bitmap 08F92C90
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33050] removed dtor for sub_bitmap 08F938A8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33051] removed dtor for sub_bitmap 08F934A0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33052] removed dtor for sub_bitmap 08F935F8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33053] removed dtor for sub_bitmap 08F92328
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33054] removed dtor for sub_bitmap 08F92480
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33056] removed dtor for sub_bitmap 08F92730
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33057] removed dtor for sub_bitmap 08F92888
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33058] removed dtor for sub_bitmap 08F92DE8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33059] removed dtor for sub_bitmap 08F929E0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33060] removed dtor for sub_bitmap 08F931F0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33061] removed dtor for sub_bitmap 08F941D8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33062] removed dtor for sub_bitmap 08F94F48
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33063] removed dtor for sub_bitmap 08F954A8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33065] removed dtor for sub_bitmap 08F94738
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33066] removed dtor for sub_bitmap 08F94890
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33067] removed dtor for sub_bitmap 08F94DF0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33068] removed dtor for sub_bitmap 08F95350
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33069] removed dtor for sub_bitmap 08F95600
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33070] removed dtor for sub_bitmap 08F95758
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33071] removed dtor for sub_bitmap 08F95CB8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33072] removed dtor for sub_bitmap 08F958B0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33073] removed dtor for sub_bitmap 08F95A08
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33075] removed dtor for sub_bitmap 08F950A0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33076] removed dtor for sub_bitmap 08F949E8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33077] removed dtor for sub_bitmap 08F94488
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33078] removed dtor for sub_bitmap 08F94B40
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33079] removed dtor for sub_bitmap 08F951F8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33080] removed dtor for sub_bitmap 08F95B60
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33081] removed dtor for sub_bitmap 08F95E10
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33082] removed dtor for sub_bitmap 08F94080
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33083] removed dtor for sub_bitmap 08F94330
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33084] removed dtor for sub_bitmap 08F945E0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33086] removed dtor for sub_bitmap 08F94C98
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33087] removed dtor for sub_bitmap 08F98220
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33088] removed dtor for sub_bitmap 08F969F0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33089] removed dtor for sub_bitmap 08F980C8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33090] removed dtor for sub_bitmap 08F97F70
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33091] removed dtor for sub_bitmap 08F978B8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33092] removed dtor for sub_bitmap 08F96F50
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33094] removed dtor for sub_bitmap 08F970A8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33095] removed dtor for sub_bitmap 08F97358
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33096] removed dtor for sub_bitmap 08F97200
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33097] removed dtor for sub_bitmap 08F974B0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33098] removed dtor for bitmap 0282D158
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33207] removed dtor for queue 08F9F8A0
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_stream.c:772  _al_kcm_feed_stream              [   5.33211] Stream feeder thread finished.
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33236] removed dtor for queue 08FB5310
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_stream.c:772  _al_kcm_feed_stream              [   5.33240] Stream feeder thread finished.
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33269] removed dtor for queue 08FD32A0
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_stream.c:772  _al_kcm_feed_stream              [   5.33271] Stream feeder thread finished.
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33303] removed dtor for queue 08FF0A78
+audio    D C:\LIBS5303Build\allegro5\addons\audio\kcm_stream.c:772  _al_kcm_feed_stream              [   5.33306] Stream feeder thread finished.
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33327] removed dtor for sample 08FB91D0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33330] removed dtor for sample 08FB91F8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33331] removed dtor for sample 08FB9388
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33333] removed dtor for sample 08FB9360
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33339] removed dtor for sample 0907B7C0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33341] removed dtor for sample 0907B748
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33343] removed dtor for sample 0907B838
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33344] removed dtor for bitmap 08F96B48
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33352] removed dtor for bitmap 08F97608
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33379] removed dtor for bitmap 08F97A10
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33396] removed dtor for bitmap 08F97CC0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33413] removed dtor for bitmap 08F97760
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33424] removed dtor for bitmap 08F96898
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33438] removed dtor for bitmap 08F96740
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33459] removed dtor for bitmap 08F97B68
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33469] removed dtor for bitmap 08F96490
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33484] removed dtor for bitmap 08F97E18
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33502] removed dtor for bitmap 08F965E8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33513] removed dtor for bitmap 08F96CA0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33529] removed dtor for bitmap 08F96DF8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33538] removed dtor for bitmap 0282B928
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33555] removed dtor for bitmap 0282BD30
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33567] removed dtor for bitmap 09097DD8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33576] removed dtor for bitmap 09097C80
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33590] removed dtor for bitmap 09098CA0
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33597] removed dtor for bitmap 09098F50
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33608] removed dtor for bitmap 090990A8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33621] removed dtor for bitmap 09098338
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33651] removed dtor for sample_instance 02731168
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:116  _al_run_destructors              [   5.33774] calling dtor for timer 02742B68, func 677B5988
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33776] removed dtor for timer 02742B68
+dinput   D C:\LIBS5303Build\allegro5\src\win\wjoydxnu.cpp:1201 joydx_exit_joystick              [   5.33826] Entering joydx_exit_joystick
+dinput   D C:\LIBS5303Build\allegro5\src\win\wjoydxnu.cpp:1222 joydx_exit_joystick              [   5.33867] Requesting window unacquire joystick devices
+dinput   D C:\LIBS5303Build\allegro5\src\win\wjoydxnu.cpp:1247 joydx_exit_joystick              [   5.33934] Leaving joydx_exit_joystick
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33937] removed dtor for sample_instance 027348F8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33939] removed dtor for sample_instance 027349E8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33940] removed dtor for sample_instance 02734AD8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33942] removed dtor for sample_instance 02734DE8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33943] removed dtor for sample_instance 02734ED8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33944] removed dtor for sample_instance 027346D8
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33945] removed dtor for sample_instance 02731618
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33946] removed dtor for sample_instance 02731258
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33948] removed dtor for mixer 027345C8
+audio-dsound D C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:509  _dsound_stop_voice               [   5.33949] Stopping voice
+audio-dsound D C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:526  _dsound_stop_voice               [   5.33951] Joining thread
+audio-dsound D C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:532  _dsound_stop_voice               [   5.33970] Joined thread
+audio-dsound D C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:534  _dsound_stop_voice               [   5.33972] Destroying thread
+audio-dsound D C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:536  _dsound_stop_voice               [   5.33974] Thread destroyed
+audio-dsound D C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:543  _dsound_stop_voice               [   5.33975] Releasing buffer
+audio-dsound I C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:547  _dsound_stop_voice               [   5.33976] Voice stopped
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   5.33981] removed dtor for voice 007FD970
+audio-dsound D C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:359  _dsound_deallocate_voice         [   5.33983] Deallocating voice
+audio-dsound D C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:364  _dsound_deallocate_voice         [   5.33984] Deallocated voice
+audio-dsound D C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:275  _dsound_close                    [   5.33985] Releasing device
+audio-dsound D C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:277  _dsound_close                    [   5.34518] Released device
+audio-dsound I C:\LIBS5303Build\allegro5\addons\audio\dsound.cpp:278  _dsound_close                    [   5.34522] DirectSound closed
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:901  d3d_destroy_display              [   5.37931] destroying display 02730750 (current 00000000)
+d3d      D C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:885  d3d_destroy_display_internals    [   5.38080] waiting for display 02730750's thread to end
+d3d      W C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:595  d3d_destroy_device               [   5.38760] d3d_destroy_device: ref count not 0
+d3d      I C:\LIBS5303Build\allegro5\src\win\d3d_disp.cpp:1549 d3d_display_thread_proc          [   5.40053] d3d display thread exits

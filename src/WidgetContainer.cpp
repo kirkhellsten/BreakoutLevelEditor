@@ -6,7 +6,7 @@ WidgetContainer::WidgetContainer(int x, int y, int width, int height) {
     this->_bitmap = al_create_bitmap(width, height);
     this->backgroundColor = al_map_rgb(50,50,50);
     this->borderColor = al_map_rgb(255,255,255);
-    this->borderThickness = 1;
+    this->borderThickness = 4;
     this->widgets = new vector<UIWidget*>();
 }
 
@@ -19,21 +19,21 @@ void WidgetContainer::addUIWidget(UIWidget *widget) {
 }
 
 void WidgetContainer::start() {
-    ALLEGRO_THREAD *loopThread = al_create_thread(WidgetContainer::__LoopThreadFunc, this);
-    al_start_thread(loopThread);
+    //ALLEGRO_THREAD *loopThread = al_create_thread(WidgetContainer::__LoopThreadFunc, this);
+    //al_start_thread(loopThread);
 }
 
 void WidgetContainer::__renderWidgets() {
-    for (int i = 0; i < widgets->size(); ++i) {
 
-        // Incase primitive drawing on ui widget occurs
-        al_set_target_bitmap(this->_bitmap);
+    for (int i = 0; i < widgets->size(); ++i) {
 
         UIWidget *uiWidget = (*widgets)[i];
         uiWidget->render();
 
+        al_draw_bitmap(uiWidget->bitmap(), uiWidget->x(), uiWidget->y(), 0);
 
     }
+
 }
 
 void *WidgetContainer::__LoopThreadFunc(ALLEGRO_THREAD *thr, void *arg) {
@@ -79,18 +79,21 @@ void *WidgetContainer::__LoopThreadFunc(ALLEGRO_THREAD *thr, void *arg) {
 
 void WidgetContainer::render() {
 
-    ALLEGRO_BITMAP *currentTargetBitmap = al_get_target_bitmap();
-    al_set_target_bitmap(this->_bitmap);
+    AH_set_target_bitmap(this->_bitmap);
+
+    // ** Draw the background Color **
     al_clear_to_color(this->backgroundColor);
 
     this->__renderWidgets();
 
-    al_draw_rectangle(this->x+this->borderThickness, this->y, this->x + this->width(), this->y + this->height(),
+    // ** Draw the Border **
+    al_draw_rectangle(this->x, this->y, this->x + this->width(), this->y + this->height(),
         this->borderColor, this->borderThickness);
 
-    al_set_target_bitmap(currentTargetBitmap);
+    AH_set_original_bitmap();
 
-    al_draw_bitmap(this->_bitmap, 0, 0, NULL);
+    al_draw_bitmap(this->_bitmap, this->x, this->y, 0);
+
 
 }
 

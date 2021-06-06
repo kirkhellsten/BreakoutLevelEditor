@@ -439,3 +439,99 @@
 1618003390 source:c:\users\kirk\codeblock projects\breakoutleveleditor\src\toolkitarea.cpp
 	"ToolKitArea.h"
 
+1622182946 source:c:\users\kirk\documents\github\breakoutleveleditor\main.cpp
+	<windows.h>
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<math.h>
+	<vector>
+	<algorithm>
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_image.h>
+	"AllegroHelper.h"
+	"WidgetContainer.h"
+	"Pane.h"
+	"LevelArea.h"
+	"ToolKitArea.h"
+	"MenuList.h"
+	"MenuButton.h"
+	"MenuButtonNode.h"
+
+1620259142 c:\users\kirk\documents\github\breakoutleveleditor\include\widgetcontainer.h
+	<iostream>
+	<vector>
+	"UIWidget.h"
+	<allegro5/allegro5.h>
+	<allegro5/allegro_primitives.h>
+
+1622162198 c:\users\kirk\documents\github\breakoutleveleditor\include\uiwidget.h
+	<iostream>
+	<vector>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	"AllegroHelper.h"
+
+1620262468 c:\users\kirk\documents\github\breakoutleveleditor\include\pane.h
+	"UIWidget.h"
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<iostream>
+
+1620262124 c:\users\kirk\documents\github\breakoutleveleditor\include\levelarea.h
+	"Pane.h"
+
+1620262161 c:\users\kirk\documents\github\breakoutleveleditor\include\toolkitarea.h
+	"Pane.h"
+
+1620262111 source:c:\users\kirk\documents\github\breakoutleveleditor\src\levelarea.cpp
+	"LevelArea.h"
+
+1622182006 source:c:\users\kirk\documents\github\breakoutleveleditor\src\menubutton.cpp
+	"MenuButton.h"
+
+1622158299 c:\users\kirk\documents\github\breakoutleveleditor\include\menubutton.h
+	"UIWidget.h"
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+
+1622182907 source:c:\users\kirk\documents\github\breakoutleveleditor\src\menulist.cpp
+	"MenuList.h"
+
+1622152451 c:\users\kirk\documents\github\breakoutleveleditor\include\menulist.h
+	"UIWidget.h"
+	"MenuButton.h"
+	<vector>
+	<iostream>
+
+1620262147 source:c:\users\kirk\documents\github\breakoutleveleditor\src\toolkitarea.cpp
+	"ToolKitArea.h"
+
+1622181385 source:c:\users\kirk\documents\github\breakoutleveleditor\src\uiwidget.cpp
+	"UIWidget.h"
+
+1622181573 source:c:\users\kirk\documents\github\breakoutleveleditor\src\widgetcontainer.cpp
+	"WidgetContainer.h"
+
+1622181410 source:c:\users\kirk\documents\github\breakoutleveleditor\src\pane.cpp
+	"Pane.h"
+
+1622181940 source:c:\users\kirk\documents\github\breakoutleveleditor\src\menubuttonnode.cpp
+	"MenuButtonNode.h"
+
+1622153069 c:\users\kirk\documents\github\breakoutleveleditor\include\menubuttonnode.h
+	"MenuButton.h"
+	"MenuList.h"
+
+1622181360 c:\users\kirk\documents\github\breakoutleveleditor\include\allegrohelper.h
+	<allegro5/allegro.h>
+	<vector>
+

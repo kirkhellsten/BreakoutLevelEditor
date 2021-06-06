@@ -3,15 +3,16 @@
 
 #include "UIWidget.h"
 #include <allegro5/allegro_primitives.h>
+#include <allegro5/allegro_font.h>
+#include <allegro5/allegro_ttf.h>
 
 #include <iostream>
 
 using namespace std;
 
-class Pane : public UIWidget
-{
+class Pane : public UIWidget {
     public:
-        Pane(int x, int y, int width, int height, int gridX=10, int gridY=10);
+        Pane(int x, int y, int width, int height, const char *title, int gridX=10, int gridY=10);
         virtual ~Pane();
 
         ALLEGRO_COLOR gridColor;

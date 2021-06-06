@@ -1,0 +1,8 @@
+stdio    D C:\LIBS5303Build\allegro5\src\file_stdio.c:109  file_stdio_fopen                 [   0.00000] opening C:\LIBS5303Distro\Allegro522_MinGW5303\bin\dlls\allegro5.cfg r
+system   D C:\LIBS5303Build\allegro5\src\win\wsystem.c:771  _al_win_safe_load_library        [   0.00000] PathFindOnPath found: C:\WINDOWS\system32\shcore.dll
+system   D C:\LIBS5303Build\allegro5\src\win\wsystem.c:682  load_library_at_path             [   0.00000] Calling LoadLibrary C:\WINDOWS\system32\shcore.dll
+system   I C:\LIBS5303Build\allegro5\src\win\wsystem.c:685  load_library_at_path             [   0.00000] Loaded C:\WINDOWS\system32\shcore.dll
+system   I C:\LIBS5303Build\allegro5\src\system.c:257  al_install_system                [   0.00000] Allegro version: 5.2.3 (GIT)
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:196  _al_register_destructor          [   0.00026] added dtor for queue 00FAD690, func 677A5297
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:116  _al_run_destructors              [   0.00027] calling dtor for queue 00FAD690, func 677A5297
+dtor     D C:\LIBS5303Build\allegro5\src\dtor.c:227  _al_unregister_destructor        [   0.00028] removed dtor for queue 00FAD690

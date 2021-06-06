@@ -14,10 +14,15 @@
 #include <allegro5/allegro_audio.h>
 #include <allegro5/allegro_image.h>
 
+#include "AllegroHelper.h"
+
 #include "WidgetContainer.h"
 #include "Pane.h"
 #include "LevelArea.h"
 #include "ToolKitArea.h"
+#include "MenuList.h"
+#include "MenuButton.h"
+#include "MenuButtonNode.h"
 
 const int FPS = 60;
 const int LPS = 120;
@@ -57,21 +62,28 @@ int main()
     al_register_event_source(eventQueue, al_get_timer_event_source(LPSTimer));
     al_register_event_source(eventQueue, al_get_mouse_event_source());
 
-
     al_start_timer(FPSTimer);
     al_start_timer(LPSTimer);
 
-
     //al_hide_mouse_cursor(display);
-
 
     bool isRunning = true;
 
+    MenuButtonNode *menuButtonNodeFile = new MenuButtonNode("File");
+    menuButtonNodeFile->menuList = new MenuList(0, 20, ML_VERTICAL);
+    menuButtonNodeFile->menuList->addMenuItem(new MenuButton("New"));
+    menuButtonNodeFile->menuList->addMenuItem(new MenuButton("Save"));
+    menuButtonNodeFile->menuList->addMenuItem(new MenuButton("Exit"));
+
+    MenuList *levelEditorMenuList = new MenuList(0, 0);
+    levelEditorMenuList->backgroundColor = al_map_rgb(24,40,60);
+    levelEditorMenuList->addMenuItem(menuButtonNodeFile);
 
     WidgetContainer *widgetContainer = new WidgetContainer(0, 0, displayWidth, displayHeight);
-    //widgetContainer->addUIWidget(new LevelArea(0,20,600,400));
-    widgetContainer->addUIWidget(new ToolKitArea(600,20,200,580));
-    widgetContainer->start();
+    widgetContainer->addUIWidget(levelEditorMenuList);
+    widgetContainer->addUIWidget(new LevelArea(0,20,600,400, "Brick Map"));
+    widgetContainer->addUIWidget(new ToolKitArea(600,20,200,580, "Brick Selection"));
+    //widgetContainer->start();
 
     while (isRunning) {
             al_wait_for_event(eventQueue, &e);
@@ -86,18 +98,22 @@ int main()
 
         } else if(e.timer.source == FPSTimer) {
 
-            al_set_target_backbuffer(display);
+            AH_set_target_bitmap(al_get_backbuffer(display));
             al_clear_to_color(al_map_rgb(0,0,0));
             widgetContainer->render();
             al_flip_display();
+            AH_set_original_bitmap();
 
         }
 
         if(e.type == ALLEGRO_EVENT_DISPLAY_CLOSE) {
+            cout << "I'm working right now" << endl;
             isRunning = false;
         }
 
     }
+
+    cout << "Exiting out of game loop" << endl;
 
     al_destroy_timer(FPSTimer);
     al_destroy_timer(LPSTimer);
@@ -105,6 +121,7 @@ int main()
     al_destroy_event_queue(eventQueue);
     al_shutdown_primitives_addon();
     al_uninstall_mouse();
+    al_uninstall_system();
 
     return 0;
 

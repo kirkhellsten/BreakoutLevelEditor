@@ -5,7 +5,7 @@
 
 class ToolKitArea : public Pane {
     public:
-        ToolKitArea(int x, int y, int width, int height);
+        ToolKitArea(int x, int y, int width, int height, const char *title);
         virtual ~ToolKitArea();
 
     protected:
